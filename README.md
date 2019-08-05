@@ -1,7 +1,8 @@
 ## Welcome to kolya.schwarzsilber.de
 
 Here I will write a new personal website for me.
-The old website is here: http://www.schwarzsilber.de/swsi2015/
+
+The [old website is here](http://www.schwarzsilber.de/swsi2015/)
 
 ----
 
