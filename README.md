@@ -1,4 +1,9 @@
-## Welcome to GitHub Pages
+## Welcome to kolya.schwarzsilber.de
+
+Here I will write a new personal website for me.
+The old website is here: [http://www.schwarzsilber.de/swsi2015/]
+
+----
 
 You can use the [editor on GitHub](https://github.com/KolyaKorruptis/.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
