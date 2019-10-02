@@ -8,6 +8,7 @@ Here I will write a new personal website for me.
   {% for post in site.posts %}
     <li>
       <a href="{{ post.url }}">{{ post.title }}</a>
+      {{ post.excerpt }}
     </li>
   {% endfor %}
 </ul>
@@ -22,7 +23,8 @@ Here I will write a new personal website for me.
 <!---
 You can use the [editor on GitHub](https://github.com/KolyaKorruptis/.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-[https://jekyllrb.com/docs/variables/](https://jekyllrb.com/docs/variables/)
+- https://jekyllrb.com/docs/variables/
+- https://jekyllrb.com/docs/posts/
 
 ### Markdown
 
