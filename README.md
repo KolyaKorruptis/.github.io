@@ -2,8 +2,6 @@
 
 Here I will write a new personal website for me.
 
-The [old website is here](http://www.schwarzsilber.de/swsi2015/)
-
 ### Posts
 
 <ul>
@@ -15,9 +13,12 @@ The [old website is here](http://www.schwarzsilber.de/swsi2015/)
 </ul>
 
 ### Links
-- https://codepen.io/kolya
+- The [old website is here](http://www.schwarzsilber.de/swsi2015/)
 - https://www.systemshock.org
-----
+- https://codepen.io/kolya
+
+
+
 <!---
 You can use the [editor on GitHub](https://github.com/KolyaKorruptis/.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
