@@ -4,6 +4,16 @@ Here I will write a new personal website for me.
 
 The [old website is here](http://www.schwarzsilber.de/swsi2015/)
 
+### Posts
+
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
+
 ### Links
 - https://codepen.io/kolya/
 - https://www.systemshock.org/
