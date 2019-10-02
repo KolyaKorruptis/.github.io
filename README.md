@@ -15,8 +15,8 @@ The [old website is here](http://www.schwarzsilber.de/swsi2015/)
 </ul>
 
 ### Links
-- https://codepen.io/kolya/
-- https://www.systemshock.org/
+- https://codepen.io/kolya
+- https://www.systemshock.org
 ----
 
 You can use the [editor on GitHub](https://github.com/KolyaKorruptis/.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
