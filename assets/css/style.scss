@@ -2,4 +2,5 @@
 ---
 
 @import "{{ site.theme }}";
-/* h1 { display:none; } */
+
+.logo { max-width: 20%;margin: 0 auto;display: block; }
