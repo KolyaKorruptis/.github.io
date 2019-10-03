@@ -45,13 +45,11 @@
 
         {{ content }}
        
-        <p class="credits">Posted on: {{ page.date }}</p>
+        {% if page.date %}
+          <p class="credits">Posted on: {{ page.date }}</p>
+        {% endif %}
       </section>
 
     </div>
-
-    {% if site.google_analytics %}
-      
-    {% endif %}
   </body>
 </html>
