@@ -9,7 +9,7 @@
 </ul>
 
 ### Links
-- The [old website is here](http://www.schwarzsilber.de/swsi2015/)
+- [my old website is here](http://www.schwarzsilber.de/swsi2015/)
 - [https://www.systemshock.org](https://www.systemshock.org)
 - [https://codepen.io/kolya](https://codepen.io/kolya)
 - [https://stackoverflow.com/users/1225787/kolya](https://stackoverflow.com/users/1225787/kolya)
