@@ -8,7 +8,7 @@ Here I will write a new personal website for me.
   {% for post in site.posts %}
     <li>
       <a href="{{ post.url }}">{{ post.title }}</a>
-      {{ post.excerpt }}
+{{ post.excerpt }}
     </li>
   {% endfor %}
 </ul>
