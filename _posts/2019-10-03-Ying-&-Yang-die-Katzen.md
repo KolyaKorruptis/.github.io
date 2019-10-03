@@ -1,5 +1,5 @@
 ---
-layout: 
+layout: default
 title:  "Ying & Yang die Katzen"
 categories: []
 tags: [cats]
