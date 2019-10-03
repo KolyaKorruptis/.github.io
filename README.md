@@ -7,10 +7,7 @@ Here I will write a new personal website for me.
 <ul>
   {% for post in site.posts %}
     <li>
-      <a href="{{ post.url }}">
-        {{ post.title }}  
-        {{ post.excerpt }}
-      </a>
+      <a href="{{ post.url }}">{{ post.title }}</a>
     </li>
   {% endfor %}
 </ul>
