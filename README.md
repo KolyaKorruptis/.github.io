@@ -11,7 +11,6 @@ Here I will write a new personal website for me.
         {{ post.title }}  
         {{ post.excerpt }}
       </a>
-
     </li>
   {% endfor %}
 </ul>
