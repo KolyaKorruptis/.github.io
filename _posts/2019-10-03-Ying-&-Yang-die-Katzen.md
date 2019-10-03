@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: 
 title:  "Ying & Yang die Katzen"
 categories: []
 tags: [cats]
