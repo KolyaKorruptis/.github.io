@@ -1,7 +1,3 @@
-## Welcome to kolya.schwarzsilber.de
-
-Here I will write a new personal website for me.
-
 ### Posts
 
 <ul>
