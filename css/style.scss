@@ -132,4 +132,5 @@ section #title p{color:#d7cfbe;font-family:'OpenSansLight',"Helvetica Neue",Helv
   nav{display:none}
 }
 .logo{margin:0 auto;display:block}
-INPUT {background:#252525;border: none;padding: 0.3rem;color:white;width: 50%;}
+INPUT, TEXTAREA {background:#252525;border:1px solid darkgray;padding: 0.3rem;color:white;width: 50%;}
+TEXTAREA { width: calc(50% + 7px); }
