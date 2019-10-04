@@ -6,11 +6,11 @@
     <title>{{ site.title | default: site.github.repository_name }}</title>
     <meta name="description" content="{{ site.description | default: site.github.project_tagline }}">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <!-- TODO: <link rel="canonical" href=""> -->
+    <link rel="canonical" href="{{ page.url | absolute_url | replace:'index.html',''}}" />
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
     <link rel="manifest" href="/manifest.json">
     <!-- Chrome for Android theme color -->
-    <!-- TODO <meta name="theme-color" content=""> -->
+    <meta name="theme-color" content="{{ site.brandcolor | default: "silver" }}">
     <!-- Add to home screen for Safari on iOS -->
     <meta name="apple-mobile-web-app-capable" content="yes">
     <!-- Add to homescreen for Chrome on Android -->
@@ -19,15 +19,18 @@
     <!-- TODO <link rel="icon" sizes="192x192" href="/img/icons/apple-touch-icon-512.png"> -->
     <!-- Add to homescreen for Safari on iOS -->
     <meta name="apple-mobile-web-app-capable" content="yes">
-    <meta name="apple-mobile-web-app-status-bar-style" content="silver">
+    <meta name="apple-mobile-web-app-status-bar-style" content="{{ site.brandcolor | default: "silver" }}">
     <meta name="apple-mobile-web-app-title" content="{{ site.title | default: site.github.repository_name }}">
     <!-- TODO <link rel="apple-touch-icon" href="/img/icons/apple-touch-icon-180.png"> -->
     <!-- Tile for Win8 -->
     <!-- TODO <meta name="msapplication-TileImage" content="img/icons/apple-touch-icon-180.png"> -->
-    <meta name="msapplication-TileColor" content="silver">
+    <meta name="msapplication-TileColor" content="{{ site.brandcolor | default: "silver" }}">
     <!-- TODO <link rel="shortcut icon" href="/img/icons/favicon.ico"> -->
-    {% seo %}
 
+    <meta property="og:title" content="{{ site.title | default: site.github.repository_name }}" />
+    <meta property="og:locale" content="{{ site.lang | default: "de-DE" }}" />
+    <meta property="og:url" content="{{ page.url | absolute_url | replace:'index.html',''}}" />
+    <meta property="og:site_name" content="{{ site.title | default: site.github.repository_name }}" />
     <!-- ! <script src="https://code.jquery.com/jquery-1.12.4.min.js" integrity="sha256-ZosEbRLbNQzLpnKIkEdrPv7lOy9C27hHQ+Xp8a4MxAQ=" crossorigin="anonymous"></script> -->
     <!-- ! <script src="{{ '/assets/js/respond.js' | relative_url }}"></script> -->
     <!--[if lt IE 9]>
