@@ -6,5 +6,5 @@ show_downloads: false
 google_analytics: false
 lang: de-DE
 #PWA
-background_color: black
-theme_color: silver
+background_color: #252525
+theme_color: #252525
