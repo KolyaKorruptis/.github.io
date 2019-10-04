@@ -1,7 +1,3 @@
----
----
-
-/*! normalize.css 2012-02-07T12:37 UTC - https://github.com/necolas/normalize.css */
 article,aside,details,figcaption,figure,footer,header,hgroup,nav,section,summary{display:block}
 audio,canvas,video{display:inline-block;*display:inline;*zoom:1}
 audio:not([controls]){display:none}
@@ -11,26 +7,26 @@ html,button,input,select,textarea{font-family:sans-serif}
 body{margin:0}
 a:focus{outline:thin dotted}
 a:hover,a:active{outline:0}
-h1{font-size:2em;margin:0.67em 0}
-h2{font-size:1.5em;margin:0.83em 0}
-h3{font-size:1.17em;margin:1em 0}
-h4{font-size:1em;margin:1.33em 0}
-h5{font-size:0.83em;margin:1.67em 0}
-h6{font-size:0.75em;margin:2.33em 0}
+h1{font-size:2rem;margin:0.67rem 0}
+h2{font-size:1.5rem;margin:0.83rem 0}
+h3{font-size:1.17rem;margin:1rem 0}
+h4{font-size:1rem;margin:1.33rem 0}
+h5{font-size:0.83rem;margin:1.67rem 0}
+h6{font-size:0.75rem;margin:2.33rem 0}
 abbr[title]{border-bottom:1px dotted}
 b,strong{font-weight:bold}
-blockquote{margin:1em 40px}
+blockquote{margin:1rem 40px}
 dfn{font-style:italic}
 mark{background:#ff0;color:#000}
-p,pre{margin:1em 0}
-pre,code,kbd,samp{font-family:monospace,serif;_font-family:'courier new',monospace;font-size:1em}
+p,pre{margin:1rem 0}
+pre,code,kbd,samp{font-family:monospace,serif;_font-family:'courier new',monospace;font-size:1rem}
 q{quotes:none}
 q:before,q:after{content:'';content:none}
 small{font-size:75%}
 sub,sup{font-size:75%;line-height:0;position:relative;vertical-align:baseline}
-sup{top:-0.5em}
-sub{bottom:-0.25em}
-dl,menu,ol,ul{margin:1em 0}
+sup{top:-0.5rem}
+sub{bottom:-0.25rem}
+dl,menu,ol,ul{margin:1rem 0}
 dd{margin:0 0 0 40px}
 menu,ol,ul{padding:0 0 0 40px}
 nav ul,nav ol{list-style:none;list-style-image:none}
@@ -38,7 +34,7 @@ img{border:0;-ms-interpolation-mode:bicubic}
 svg:not(:root){overflow:hidden}
 figure{margin:0}
 form{margin:0}
-fieldset{border:1px solid #c0c0c0;margin:0 2px;padding:0.35em 0.625em 0.75em}
+fieldset{border:1px solid #c0c0c0;margin:0 2px;padding:0.35rem 0.625rem 0.75rem}
 legend{border:0;padding:0;white-space:normal;*margin-left:-7px}
 button,input,select,textarea{font-size:100%;margin:0;vertical-align:baseline;*vertical-align:middle}
 button,input{line-height:normal}
@@ -94,7 +90,7 @@ h4,h5,h6{color:#e8e8e8}
 h3{font-size:18px;line-height:24px;font-family:'OpenSansRegular',"Helvetica Neue",Helvetica,Arial,sans-serif !important;font-weight:normal;color:#b6b6b6}
 a{color:#ffcc00;font-weight:400;text-decoration:none}
 a:hover{color:#ffeb9b}
-a small{font-size:11px;color:#666;margin-top:-0.6em;display:block}
+a small{font-size:11px;color:#666;margin-top:-0.6rem;display:block}
 ul{list-style-image:url("../images/bullet.png")}
 strong{font-family:'OpenSansBold',"Helvetica Neue",Helvetica,Arial,sans-serif !important;font-weight:normal}
 .wrapper{max-width:650px;margin:0 auto;position:relative;padding:0 20px}
@@ -106,7 +102,7 @@ pre code{color:#efefef;text-shadow:0px 1px 0px #000;margin:0;padding:0}
 table{width:100%;border-collapse:collapse}
 th{text-align:left;padding:5px 10px;border-bottom:1px solid #434343;color:#b6b6b6;font-family:'OpenSansSemibold',"Helvetica Neue",Helvetica,Arial,sans-serif !important;font-weight:normal}
 td{text-align:left;padding:5px 10px;border-bottom:1px solid #434343}
-hr{border:0;outline:none;height:3px;background:transparent url("../images/hr.gif") center center repeat-x;margin:0 0 20px}
+hr{margin-bottom:1rem;border-bottom:1px solid currentColor;}
 dt{color:#F0E7D5;font-family:'OpenSansSemibold',"Helvetica Neue",Helvetica,Arial,sans-serif !important;font-weight:normal}
 #header{z-index:100;left:0;top:0px;height:60px;width:100%;position:fixed;background:url(../images/nav-bg.gif) #353535;border-bottom:4px solid #434343;box-shadow:0px 1px 3px rgba(0,0,0,0.25)}
 #header nav{max-width:650px;margin:0 auto;padding:0 10px;background:blue;margin:6px auto}
@@ -123,14 +119,12 @@ section #title p{color:#d7cfbe;font-family:'OpenSansLight',"Helvetica Neue",Helv
 .credits{font-size:11px;font-family:'OpenSansRegular',"Helvetica Neue",Helvetica,Arial,sans-serif;font-weight:normal;color:#696969;}
 .left{float:left}
 .right{float:right}
-
 @media print,screen and (max-width:720px){
-  #title .credits {display:block;width:100%;line-height:30px;text-align:center}
+  #title .credits{display:block;width:100%;line-height:30px;text-align:center}
 }
 @media print,screen and (max-width:480px){
   #header{margin-top:-20px}
   section{margin-top:40px}
   nav{display:none}
 }
-
 .logo{margin:0 auto;display:block}
