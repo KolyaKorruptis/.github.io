@@ -1,0 +1,32 @@
+---
+layout: none
+permalink: manifest.json
+---
+
+{
+  "short_name": "{{ site.title }}",
+  "name": "{{ site.title }}",
+  "orientation":"portrait",
+  "background_color": "{{ site.background_color}}",
+  "theme_color": "{{ site.theme_color}}",
+  "start_url": "/",
+  "scope": "/",
+  "description": "{{ site.description}}",
+  "lang": "{{ site.lang }}",
+  "icons": [
+    {
+    "src": "/img/icons/apple-touch-icon-120.png",
+    "type": "image/png",
+    "sizes": "120x120"
+    }, {
+      "src": "/img/icons/apple-touch-icon-180.png",
+      "type": "image/png",
+      "sizes": "180x180"
+    }, {
+    "src": "/img/icons/apple-touch-icon-512.png",
+    "type": "image/png",
+    "sizes": "512x512"
+    }
+  ]
+}
+

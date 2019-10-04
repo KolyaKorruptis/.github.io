@@ -1,6 +1,10 @@
 theme: jekyll-theme-midnight
-title: schwarzsilber
-description: 
+title: Schwarzsilber
+description:
 excerpt_separator: <!--more-->
 show_downloads: false
 google_analytics: false
+lang: de-DE
+#PWA
+background_color: black
+theme_color: silver
