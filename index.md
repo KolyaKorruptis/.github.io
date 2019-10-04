@@ -24,7 +24,7 @@
 
 ### Contact
 
-<form accept-charset="UTF-8" action="https://formkeep.com/p/90927a4a1d0e0f954a7af7c0879aab54" method="POST">
+<form accept-charset="UTF-8" action="https://formkeep.com/f/293fe9acdb95" method="POST">
   <input type="email" name="email" placeholder="Your Email address"><br>
   <input type="text" name="name" placeholder="Your full name"><br>
   <input type="tel" name="tel" placeholder="Your phone number"><br>
