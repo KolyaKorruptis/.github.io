@@ -25,10 +25,10 @@
 ### Contact
 
 <form accept-charset="UTF-8" action="https://formkeep.com/p/90927a4a1d0e0f954a7af7c0879aab54" method="POST">
-  <input type="email" name="email" placeholder="Your Email address">
-  <input type="text" name="name" placeholder="Your full name">
-  <input type="tel" name="tel" placeholder="Your phone number"><br><br>
-  <textarea name="subject" placeholder="Your message" rows="5">
+  <input type="email" name="email" placeholder="Your Email address"><br>
+  <input type="text" name="name" placeholder="Your full name"><br>
+  <input type="tel" name="tel" placeholder="Your phone number"><br>
+  <textarea name="subject" placeholder="Your message" rows="5"></textarea><br>
   <input type="hidden" name="utf8" value="✓">
   <button type="submit">Submit</button>
 </form>
