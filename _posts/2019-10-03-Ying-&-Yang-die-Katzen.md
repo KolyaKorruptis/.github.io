@@ -9,11 +9,11 @@ tags: [cats]
 ![yingyang](/img/Ying+Yang.jpg)
 
 <!--more-->
-Ying & Yang die Katzen\
-Liegen matt auf den Matratzen\
-Sie lecken ihre Pfote\
-Schern sich nicht um Verbote\
-Nur fressen, spielen, schlafen\
-Im Bett ein sicherer Hafen\
-So ein faules Katzen Leben\
+Ying & Yang die Katzen
+Liegen matt auf den Matratzen
+Sie lecken ihre Pfote
+Schern sich nicht um Verbote
+Nur fressen, spielen, schlafen
+Im Bett ein sicherer Hafen
+So ein faules Katzen Leben
 Ist nur Ying & Yang gegeben
