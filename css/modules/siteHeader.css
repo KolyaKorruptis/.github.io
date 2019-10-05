@@ -11,6 +11,11 @@
   text-align: center;
   color:var(--lightgrey);
   font-size: 3rem;
+  /* shine effect */
+  background: linear-gradient(#111 0%,#fff 50%,#111 100%);
+  background-clip: border-box;
+  background-clip: text;
+  color:transparent;
 }
 
 .siteHeader__footer {
