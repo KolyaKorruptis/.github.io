@@ -1,14 +1,14 @@
 {% include htmlHead.html docType="default" %}
 
     <main class="main">
-      <header>
+      <header class="siteHeader">
         <a href="/">
-          <img class="logo" src="{{ '/img/icons/apple-touch-icon-180.png' | relative_url }}" alt=""/>
-          <h1>{{ site.title | default: site.github.repository_name }}</h1>
+          <img class="siteHeader__logo" src="{{ '/img/icons/apple-touch-icon-180.png' | relative_url }}" alt=""/>
+          <h1 class="siteHeader__headline">{{ site.title | default: site.github.repository_name }}</h1>
           <p>{{ site.description | default: site.github.project_tagline }}</p>
         </a>
         <hr>
-        <footer>
+        <footer class="siteHeader__footer">
           <span class="small grey">by <a rel="author" href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></span>
           <span class="small grey">last site update:  <time datetime="{{ site.time }}">{{ site.time }}</time></span>
         </footer>

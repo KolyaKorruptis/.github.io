@@ -1,0 +1,21 @@
+.siteHeader {
+
+}
+
+.siteHeader__logo {
+  margin-bottom: 2rem;
+}
+
+.siteHeader__headline {
+  text-align: center;
+  color:var(--lightgrey);
+  font-size: 3rem;
+}
+
+.siteHeader__footer {
+  margin-bottom: 1rem;
+}
+
+
+.small { font-size:0.8rem; }
+.grey { color:var(--lightgrey); }
