@@ -6,7 +6,7 @@ tags: [cats]
 
 # Ying & Yang die Katzen
 
-![yingyang](https://i.imgur.com/LQHHA8H.jpg)
+![yingyang](/img/Ying+Yang.jpg)
 
 <!--more-->
 Ying & Yang die Katzen  
