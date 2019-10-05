@@ -4,16 +4,10 @@
   --lightgrey: #696969;
   --flint: #333;
   --active: red;
-  --font-family: 'Quicksand', sans-serif;
+  --text: 'Indie Flower', cursive;
+  --headline: 'Oswald', sans-serif;
+  --siteBgColor: #252525;
+  --fontSize: 16px;
 }
-
-.body {
-  background:#252525;
-  font-size: 16px;
-  font-family: var(--font-family);
-  color: var(--white);
-}
-
-
 
 

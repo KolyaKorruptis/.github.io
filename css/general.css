@@ -11,7 +11,14 @@ a:hover{color:#ffeb9b;outline: 0;}
   text-shadow: none;
 }
 
+.body {
+  background:var(--siteBgColor);
+  font-size: var(--fontSize);
+  font-family: var(--text);
+  color: var(--white);
+}
 
+h1,h2,h3,h4,h5,h6 { font-family:var(--headline); }
 
 
 
