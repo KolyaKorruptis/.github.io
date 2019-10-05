@@ -57,13 +57,6 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 
-## href
 
-[Link to a post]({% post_url 2010-07-21-name-of-post %})
-
-[Link to a document]({{ site.baseurl }}{% link _collection/name-of-document.md %})
-[Link to a post]({{ site.baseurl }}{% link _posts/2016-07-26-name-of-post.md %})
-[Link to a page]({{ site.baseurl }}{% link news/index.html %})
-[Link to a file]({{ site.baseurl }}{% link /assets/files/doc.pdf %})
 
 --->
