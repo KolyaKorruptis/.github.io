@@ -21,6 +21,7 @@ defaults:
       layout: "none"
 kramdown:
   input: GFM
+  hard_wrap: true
 #PWA
 background_color: #252525
 theme_color: #252525
