@@ -1,0 +1,49 @@
+@media (min-width: 768px) {
+  .main {
+    max-width: 940px;
+    margin: 3px auto 0;
+  }
+
+
+
+
+
+
+  .contentSection {
+    grid-template-columns: 1fr 1fr;
+  }
+  .teaser--feature { grid-area: feature; }
+  .teaser--special { grid-area: special; }
+  .teaser--amazing { grid-area: amazing; }
+  .teaser--news { grid-area: news; }
+  .teaser--photos { grid-area: photos; }
+  .teaser--newsletter { grid-area: newsletter; }
+  .contentSection--type1 {
+    grid-template-areas:  "feature feature"
+                          "feature feature"
+                          "special news"
+                          "special photos"
+                          "special newsletter"
+                          "amazing newsletter";
+  }
+}
+
+/* desktop */
+@media (min-width: 1140px) {
+  .contentWrapper {
+    min-width: 800px;
+    max-width: 1200px;
+    margin-top: 40px;
+  }
+  .contentSection {
+    grid-template-columns: 1fr 1fr 1fr;
+  }
+  .contentSection--type1 {
+    grid-template-rows: minmax(200px, auto) minmax(200px, auto); /* the first 2 rows */
+    grid-template-areas:  "feature special news"
+                          "feature special photos"
+                          "feature special newsletter"
+                          "feature amazing newsletter"
+                          "feature amazing newsletter";
+  }
+}
