@@ -1,6 +1,6 @@
 ---
 title:  "Ying & Yang die Katzen"
-tags: [cats]
+tags: [cats, eastern philosophy]
 ---
 
 
@@ -17,3 +17,4 @@ Nur fressen, spielen, schlafen
 Im Bett ein sicherer Hafen
 So ein faules Katzen Leben
 Ist nur Ying & Yang gegeben
+
