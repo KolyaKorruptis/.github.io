@@ -1,6 +1,8 @@
 ---
 title:  "Ying & Yang die Katzen"
 tags: [cats]
+kramdown:
+  input: GFM
 ---
 
 
