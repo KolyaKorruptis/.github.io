@@ -2,16 +2,6 @@
 
 }
 
-.siteHeader__glossy {
-  background: linear-gradient(to bottom, rgba(232,232,232,1) 0%, rgba(105,105,105,1) 100%);
-  height: 45px;
-  position: absolute;
-  display: block;
-  width: 15em;
-  top: 39px;
-  opacity: 0.4;
-}
-
 .siteHeader__logo {
   display:block;
   margin:0 auto 2rem;
@@ -30,3 +20,28 @@
 
 .small { font-size:0.8rem; }
 .grey { color:var(--lightgrey); }
+
+.siteHeader__headline
+{
+    background: #222 -webkit-gradient(linear, left top, right top, from(#222), to(#222), color-stop(0.5, #fff)) 0 0 no-repeat;
+    -webkit-background-size: 125px;
+
+    color: rgba(255, 255, 255, 0.1);
+    -webkit-background-clip: text;
+
+    -webkit-animation-name: shine;
+    -webkit-animation-duration: 2s;
+    -webkit-animation-iteration-count: infinite;
+}
+
+@-webkit-keyframes shine
+{
+    0%
+    {
+        background-position: top left;
+    }
+    100%
+    {
+        background-position: top right;
+    }
+}
