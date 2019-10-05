@@ -3,7 +3,8 @@
 }
 
 .siteHeader__logo {
-  margin-bottom: 2rem;
+  display:block;
+  margin:0 auto 2rem;
 }
 
 .siteHeader__headline {
