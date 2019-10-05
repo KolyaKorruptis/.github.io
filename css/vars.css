@@ -1,19 +1,20 @@
 :root {
-  --accent-color: rgb(123,14,34);
   --white: white;
   --black: black;
+  --lightgrey: #696969;
   --flint: #333;
-  --hardHighlight: rgba(255, 255, 255, 0.7);
-  --softHighlight: rgba(255, 255, 255, 0.1);
-  --active: rgba(0,133,200,0.8);
+  --active: red;
   --font-family: 'Quicksand', sans-serif;
 }
 
 .body {
-  font-family: 'Quicksand', sans-serif; /* fallback */
-  font-size: 16px; /* fallback */
-  color: black; /* fallback */
-
+  background:#252525;
+  font-size: 16px;
   font-family: var(--font-family);
-  color: var(--flint);
+  color: var(--white);
 }
+
+
+.small { font-size:0.8rem; }
+.grey { color:var(--lightgrey); }
+

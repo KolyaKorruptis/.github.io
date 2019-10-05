@@ -2,19 +2,12 @@
   display: none;
 }
 
-a:active,
-a:hover {
-  outline: 0;
-}
-
-a {
-  text-decoration: none;
-  color: inherit;
-}
+a{color:#ffcc00;font-weight:400;text-decoration:none;outline: 0;}
+a:hover{color:#ffeb9b;outline: 0;}
 
 ::selection {
-  background: var(--active);
-  color: var(--white);
+  background: var(--white);
+  color: var(--black);
   text-shadow: none;
 }
 
@@ -22,16 +15,3 @@ a {
 
 
 
-
-
-
-
-body {background:#252525;color: white;}
-a{color:#ffcc00;font-weight:400;text-decoration:none}
-a:hover{color:#ffeb9b}
-.credits{font-size:11px;color:#696969;}
-.left{float:left}
-.right{float:right}
-.logo{margin:0 auto;display:block}
-INPUT, TEXTAREA {background:#252525;border:1px solid darkgray;padding: 0.3rem;color:white;width: 50%;}
-TEXTAREA { width: calc(50% + 7px); }
