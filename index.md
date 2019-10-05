@@ -16,7 +16,9 @@
 {% endfor %}
 </ul>
 --->
+
 ### Links
+
 - [my old website is here](http://www.schwarzsilber.de/swsi2015/)
 - [https://www.systemshock.org](https://www.systemshock.org)
 - [https://codepen.io/kolya](https://codepen.io/kolya)
@@ -55,7 +57,8 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 
-## Links
+## href
+
 [Link to a post]({% post_url 2010-07-21-name-of-post %})
 
 [Link to a document]({{ site.baseurl }}{% link _collection/name-of-document.md %})
