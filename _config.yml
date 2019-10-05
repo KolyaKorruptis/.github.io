@@ -1,10 +1,26 @@
 theme: jekyll-theme-midnight
+timezone: Europe/Berlin
+lang: de-DE
 title: Schwarzsilber
 description:
 excerpt_separator: <!--more-->
 show_downloads: false
 google_analytics: false
-lang: de-DE
+defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+      type: "posts"
+    values:
+      layout: "default"
+      author: "Kolya"
+  -
+    scope:
+      path: "css"
+    values:
+      layout: "none"
+kramdown:
+  input: GFM
 #PWA
 background_color: #252525
 theme_color: #252525
