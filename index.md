@@ -17,11 +17,17 @@
 </ul>
 --->
 
+### Bio
+
+My name is Nicolai Sandow, born in 1977. I've worked as a webdeveloper since 2002, mainly for local news publishers (Ruhr Nachrichten, Kölner Stadtanzeiger, Express, Hamburer Morgenpost, etc).
+As a hobby I've been running a [gaming community](https://www.systemshock.org) since 2005 about the [System Shock](https://en.wikipedia.org/wiki/System_Shock_2) games series.
+I like reading <s>Jane Austen</s> stories about British Explorer [Percy Fawcett](https://en.wikipedia.org/wiki/Percy_Fawcett) to my wife, helping people, and a cold beer. As I discovered, I have a strongly held opinions about net neutrality and the value of voluntary work.
+
 ### Links
 
 - [the previous version of this website (2004-2015)](http://www.schwarzsilber.de/swsi2015/)
 - [and the version before that (2001-203)](http://www.schwarzsilber.de/swsi2015/#%5B%5BThe%20first%20layout%20of%20this%20site%5D%5D)
-- The System Shock gaming community I run: [https://www.systemshock.org](https://www.systemshock.org)
+- [https://www.systemshock.org](https://www.systemshock.org)
 - [https://codepen.io/kolya](https://codepen.io/kolya)
 - [https://stackoverflow.com/users/1225787/kolya](https://stackoverflow.com/users/1225787/kolya)
 
