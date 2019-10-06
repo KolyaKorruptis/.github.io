@@ -1,5 +1,5 @@
 ---
-title:  "Ying & Yang die Katzen"
+title:  "I trusted her instantly!"
 categories: [music]
 tags: [Jonathan Richman]
 ---
