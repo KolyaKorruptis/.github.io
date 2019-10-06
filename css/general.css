@@ -1,3 +1,13 @@
+article,aside,details,figcaption,figure,footer,header,hgroup,menu,nav,section,summary{display:block;}
+audio,canvas,video{display:inline-block;*display:inline;*zoom:1}
+[hidden]{display:none}
+body{margin:0;}
+ol,ul{list-style:inside;}
+blockquote,q{quotes:none;}
+blockquote:before,blockquote:after,q:before,q:after{content:'';content:none;}
+table{border-collapse:collapse;border-spacing:0;}
+
+
 .browserupgrade {
   display: none;
 }
@@ -22,11 +32,6 @@ h1,h2,h3,h4,h5,h6,header {
   font-family:var(--headline);
   margin: 1.5em 0 0.5em;
 }
-
-article p {
-  font-family: var(--text);
-}
-
 
 
 .small { font-size:var(--smallText); }

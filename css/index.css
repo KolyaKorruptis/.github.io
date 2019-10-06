@@ -6,7 +6,6 @@
   we use camelCase to separate words: .myBlock__anElement--thisModifier
 */
 
-@import url('reset.css') screen;
 @import url('fonts.css') screen;
 @import url('vars.css') screen;
 @import url('general.css') screen;

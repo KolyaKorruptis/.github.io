@@ -9,3 +9,9 @@
 .article UL LI {
   line-height: 1.8rem;
 }
+
+article p {
+  font-family: var(--text);
+  font-size: 1.2rem;
+  margin-bottom: 0.75rem;
+}
