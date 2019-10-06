@@ -6,7 +6,6 @@
   display:block;
   margin:0 auto;
   width: 20%;
-  max-width: 180px;
 }
 
 .siteHeader__headline {
@@ -31,6 +30,6 @@
 
 @media (min-width: 768px) {
   .siteHeader__headline {
-    font-size: 3rem;
+    font-size: 2.5rem;
   }
 }
