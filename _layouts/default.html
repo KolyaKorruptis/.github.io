@@ -15,14 +15,11 @@
       </header>
 
       <article>
-
         {{ content }}
-
-        {% if page.date %}
-          <p class="credits">Posted on: {{ page.date }}</p>
-        {% endif %}
-
       </article>
+      {% if page.date %}
+          <div class="small grey">Posted on: {{ page.date }}</div>
+        {% endif %}
     </main>
 
 {% include footer.html docType="default" %}
