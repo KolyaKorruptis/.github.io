@@ -15,29 +15,25 @@
         </footer>
       </header>
 
-
-      <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
-          {%- assign date_format = site.minima.date_format | default: '%b %-d, %Y' -%}
-
-          {%- if page.last_modified_at -%}
-              Last updated: {{ page.last_modified_at | date: date_format }}
-          {%- else -%}
-              Last updated: {{ page.date | date: date_format }}
-          {%- endif -%}
-        </time>
-
+      {% if page.date %}
+      <time class="pageDate" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
+        {%- assign date_format = site.minima.date_format | default: '%b %-d, %Y' -%} <!-- %S:%R %A, %d.%B %Y -->
+        {%- if page.last_modified_at -%}
+            Last updated: {{ page.last_modified_at | date: date_format }}
+        {%- else -%}
+            Last updated: {{ page.date | date: date_format }}
+        {%- endif -%}
+      </time>
+      {% endif %}
 
       <article class="article">
         {{ content }}
       </article>
 
-      <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
-          Originally published on: {{ page.date | date: date_format }}
-        </time>
-
-
       {% if page.date %}
-        <div class="pageDate">Posted on: {{ page.date }}</div>
+      <time class="pageDate" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
+          Originally posted on: {{ page.date | date: date_format }}
+        </time>
       {% endif %}
 
     </main>
