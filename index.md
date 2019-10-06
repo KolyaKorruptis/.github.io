@@ -19,7 +19,7 @@
 
 ### Bio
 
-My name is Nicolai Sandow, born in 1977. I've worked as a webdeveloper since 2002, mainly for local news publishers ([Medienhaus Lensing](https://www.lensingmedia.de/) in Dortmund, [DuMont](https://www.dumont.de/) in Cologne).
+Hi, my name is Nicolai Sandow, born in 1977 in Berlin. I've worked as a webdeveloper since 2002, mainly for local news publishers ([Medienhaus Lensing](https://www.lensingmedia.de/) in Dortmund, [DuMont](https://www.dumont.de/) in Cologne).
 As a hobby I've been running a [gaming community](https://www.systemshock.org) since 2005 about the [System Shock](https://en.wikipedia.org/wiki/System_Shock_2) games series.
 I like reading <s>Jane Austen</s> stories about British Explorer [Percy Fawcett](https://en.wikipedia.org/wiki/Percy_Fawcett) to my wife, helping people, and a cold beer. As I discovered, I have a strongly held opinions about net neutrality and the value of voluntary work.
 
