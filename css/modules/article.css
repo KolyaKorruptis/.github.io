@@ -2,6 +2,10 @@
   margin-bottom: 1rem;
 }
 
-.article img {
+.article IMG {
   width: 100%;
+}
+
+.article UL LI {
+  line-height: 1.8rem;
 }
