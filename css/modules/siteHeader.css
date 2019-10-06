@@ -18,6 +18,7 @@
   background: linear-gradient(#111 0%,#fff 50%,#111 100%);
   background-clip: border-box;
   background-clip: text;
+  -webkit-background-clip: text;
   color:transparent;
 }
 
