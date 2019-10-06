@@ -28,6 +28,7 @@
 <!---
 You can use the [editor on GitHub](https://github.com/KolyaKorruptis/.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
+- https://devhints.io/jekyll
 - https://jekyllrb.com/docs/variables/
 - https://jekyllrb.com/docs/posts/
 

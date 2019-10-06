@@ -11,7 +11,7 @@
         <hr>
         <footer class="siteHeader__footer">
           <span class="small grey">by <a rel="author" href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></span>
-          <span class="small grey">last site update:  <time datetime="{{ site.time }}">{{ site.time }}</time></span>
+          <span class="small grey">last site update:  <time datetime="{{ site.time }}">{{ site.time | date: site.date_format }}</time></span>
         </footer>
       </header>
 
@@ -21,7 +21,7 @@
 
       {% if page.date %}
       <time class="pageDate" datetime="{{ page.date | date_to_xmlschema }}">
-        Last modified at: {{ page.date | date: site.date_format }}
+        Last modified at: {{ page.date | date: site.day_format }}
       </time>
       {% endif %}
 

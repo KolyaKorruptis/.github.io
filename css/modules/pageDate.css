@@ -2,4 +2,5 @@
   font-size:var(--smallText);
   color:var(--lightgrey);
   text-align: right;
+  display: block;
  }
