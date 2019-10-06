@@ -1,6 +1,7 @@
 {% include htmlHead.html docType="default" %}
 
     <main class="main">
+
       <header class="siteHeader">
         <a href="/">
           <img class="siteHeader__logo" src="{{ '/img/icons/apple-touch-icon-180.png' | relative_url }}" alt=""/>
@@ -17,9 +18,11 @@
       <article class="article">
         {{ content }}
       </article>
+
       {% if page.date %}
-          <div class="small grey">Posted on: {{ page.date }}</div>
-        {% endif %}
+        <div class="pageDate">Posted on: {{ page.date }}</div>
+      {% endif %}
+
     </main>
 
 {% include footer.html docType="default" %}

@@ -29,3 +29,5 @@ article p {
 
 
 
+.small { font-size:var(--smallText); }
+.grey { color:var(--lightgrey); }

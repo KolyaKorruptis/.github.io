@@ -27,10 +27,6 @@
 }
 
 
-.small { font-size:0.8rem; }
-.grey { color:var(--lightgrey); }
-
-
 @media (min-width: 768px) {
   .siteHeader__headline {
     font-size: 3rem;
