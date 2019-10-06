@@ -3,7 +3,7 @@
 <ul>
   {% for post in site.posts %}
     <li>
-      <a href="{{ post.url }}">{{ post.title }}</a> <span class="small grey">({{ post.date }})</span>
+      <a href="{{ post.url }}">{{ post.title }}</a> <span class="small grey">({{ post.last_modified_at | date: '%S:%R %A, %d.%B %Y:' }})</span>
     </li>
   {% endfor %}
 </ul>
