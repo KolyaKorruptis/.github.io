@@ -21,7 +21,7 @@
 
       {% if page.date %}
       <time class="pageDate" datetime="{{ page.date | date_to_xmlschema }}">
-        Last modified at: {{ page.date | date: date_format }}
+        Last modified at: {{ page.date | date: site.date_format }}
       </time>
       {% endif %}
 
