@@ -1,6 +1,6 @@
 timezone: Europe/Berlin
 lang: de-DE
-date_format: "%S:%R %A, %d.%B %Y"
+date_format: "%R %A, %d.%B %Y"
 day_format: "%A, %d.%B %Y"
 title: Schwarzsilber
 description:
