@@ -5,11 +5,14 @@
 .siteHeader__logo {
   display:block;
   margin:0 auto;
+  width: 20%;
+  max-width: 180px;
 }
 
 .siteHeader__headline {
   text-align: center;
   color:var(--lightgrey);
+  font-size: 8vw;
   font-size: 3rem;
   margin: 0;
   /* shine effect */
@@ -27,3 +30,9 @@
 .small { font-size:0.8rem; }
 .grey { color:var(--lightgrey); }
 
+
+@media (min-width: 768px) {
+  .siteHeader__headline {
+    font-size: 3rem;
+  }
+}
