@@ -6,7 +6,7 @@ tags: [cats, eastern philosophy]
 
 # Ying & Yang die Katzen
 
-![yingyang](/img/Ying+Yang.jpg)
+<a href="/img/Ying+Yang.jpg"></a><img src="/img/Ying+Yang.jpg" style="width:50%" alt="2 zusammengerollte Katzen"></a>
 
 <!--more-->
 Ying & Yang die Katzen
