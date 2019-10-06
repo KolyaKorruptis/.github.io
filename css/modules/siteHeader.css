@@ -13,7 +13,6 @@
   text-align: center;
   color:var(--lightgrey);
   font-size: 8vw;
-  font-size: 3rem;
   margin: 0;
   /* shine effect */
   background: linear-gradient(#111 0%,#fff 50%,#111 100%);
