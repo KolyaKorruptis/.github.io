@@ -19,8 +19,9 @@
 
 ### Links
 
-- [my old website is here](http://www.schwarzsilber.de/swsi2015/)
-- [https://www.systemshock.org](https://www.systemshock.org)
+- [the previous version of this website (2004-2015)](http://www.schwarzsilber.de/swsi2015/)
+- [and the version before that (2001-203)](http://www.schwarzsilber.de/swsi2015/#%5B%5BThe%20first%20layout%20of%20this%20site%5D%5D)
+- The System Shock gaming community I run: [https://www.systemshock.org](https://www.systemshock.org)
 - [https://codepen.io/kolya](https://codepen.io/kolya)
 - [https://stackoverflow.com/users/1225787/kolya](https://stackoverflow.com/users/1225787/kolya)
 
