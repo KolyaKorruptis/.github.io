@@ -11,4 +11,4 @@ We call it nutbush city limits.
 
 <iframe width="100%" height="630" src="https://www.youtube.com/embed/6IydWoyZ7Ew" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Ike & Tina Turner's track is set here to a fragment of the film _"Sweet Charity: The Adventures of a Girl Who Wanted to Be Loved"_ [1969] ([imdb](https://www.imdb.com/title/tt0065054/))
+Ike & Tina Turner's track is set to a fragment of the film _"Sweet Charity"_ [1969] ([imdb](https://www.imdb.com/title/tt0065054/)) ([original scene](https://www.youtube.com/watch?v=rw_M-ai1I0k))
