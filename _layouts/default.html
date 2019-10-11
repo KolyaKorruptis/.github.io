@@ -24,13 +24,7 @@
         Post published on: {{ page.date | date: site.day_format }}
       </time>
 
-      <form onSubmit={onSubmit}>
-        <input name="name" onChange={changeUserName} placeholder="Name" />
-        <textArea name="message" onChange={changeuserMessage} placeholder="Message"></textArea>
-        <button>Submit</button>
-      </form>
-
-      <form method="POST" action="https://api.staticman.net/v2/entry/KolyaKorruptis/kolyakorruptis.github.io/comments">
+      <form method="POST" action="https://dev.staticman.net/v3/entry/KolyaKorruptis/kolyakorruptis.github.io/comments">
         <input name="options[redirect]" type="hidden" value="https://kolya.schwarzsilber.de">
         <input name="options[slug]" type="hidden" value="{{ page.slug }}">
         <label><input name="fields[name]" type="text">Name</label>
