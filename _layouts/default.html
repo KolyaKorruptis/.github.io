@@ -23,13 +23,6 @@
       <time class="pageDate" datetime="{{ page.date | date_to_xmlschema }}">
         Post published on: {{ page.date | date: site.day_format }}
       </time>
-
-      <Form onSubmit={onSubmit}>
-        <Form.Input name="name" onChange={changeUserName} placeholder="what" />
-        <Form.TextArea name="message" onChange={changeuserMessage} placeholder="what2" />
-        <Form.Button>Submit</Form.Button>
-      </Form>
-
       {% endif %}
 
     </main>
