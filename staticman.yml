@@ -1,5 +1,0 @@
-allowedFields: ["name", "message"]
-branch: "master"
-commitMessage: "Add Staticman data"
-moderation: true
-name: "Schwarzsilber.de"
