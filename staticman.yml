@@ -1,5 +1,15 @@
-allowedFields: ["name", "message"]
-branch: "master"
-commitMessage: "Add Staticman data"
-moderation: true
-name: "Schwarzsilber.de"
+comments:
+  allowedFields: ["slug", "name", "message"]
+  branch: "master"
+  commitMessage: "Add comment by {fields.name} on {fields.slug}"
+  filename: "{@timestamp}"
+  format: "yaml"
+  name: "Schwarzsilber.de"
+  generatedFields:
+    date:
+      type: date
+      options:
+        format: "timestamp"
+  moderation: false
+  path: "comments"
+  requiredFields: ["slug", "name", "message"]
