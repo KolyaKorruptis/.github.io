@@ -1,4 +1,3 @@
-# https://github.com/eduardoboucas/staticman/blob/master/staticman.sample.yml
 comments:
   allowedFields: ["slug", "name", "message"]
   branch: "master"
@@ -12,7 +11,5 @@ comments:
       options:
         format: "timestamp"
   moderation: false
-  path: "comments/{options.slug}"
+  path: "comments"
   requiredFields: ["slug", "name", "message"]
- transforms:
-    email: md5
