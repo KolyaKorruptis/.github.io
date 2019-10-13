@@ -2,13 +2,14 @@
   --white: #dfdfdf;
   --black: black;
   --lightgrey: #696969;
-  --flint: #333;
-  --active: red;
-  --text: Merriweather, serif;
-  --headline: Quicksand, sans-serif;
-  --siteBgColor: #252525;
+  --darkGrey: #252525;
+  --textFontFamily: Merriweather, serif;
+  --textLetterSpacing: .01rem;
+  --headlineFontFamily: Quicksand, sans-serif;
   --fontSize: 18px;
   --smallText: 0.8rem;
+  --siteBgColor: var(--darkGrey);
+  --mainTextColor: var(--white);
 }
 
 
