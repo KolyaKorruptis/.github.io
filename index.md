@@ -27,8 +27,8 @@ Here's a silly [picture of me](/img/nicolai.jpg).
 
 ### Links
 
-- [the previous version of this website (2004-2015)](http://www.schwarzsilber.de/swsi2015/)
-- [and the version before that (2001-203)](http://www.schwarzsilber.de/swsi2015/#%5B%5BThe%20first%20layout%20of%20this%20site%5D%5D)
+- [schwarzsilber.de (2004-2015)](http://www.schwarzsilber.de/swsi2015/)
+- [schwarzsilber.de (2001-2003)](http://www.schwarzsilber.de/swsi2015/#%5B%5BThe%20first%20layout%20of%20this%20site%5D%5D)
 - [https://www.systemshock.org](https://www.systemshock.org)
 - [https://codepen.io/kolya](https://codepen.io/kolya)
 - [https://stackoverflow.com/users/1225787/kolya](https://stackoverflow.com/users/1225787/kolya)

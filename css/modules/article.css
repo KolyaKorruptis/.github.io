@@ -12,6 +12,8 @@
 
 article p {
   font-family: var(--text);
-  font-size: 1.2rem;
+  font-size: 1.4rem;
   margin-bottom: 0.75rem;
+  letter-spacing: .01rem;
+  line-height: 1.75rem;
 }
