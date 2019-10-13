@@ -5,15 +5,16 @@
       <header class="siteHeader">
         <a href="/">
           <img class="siteHeader__logo" src="{{ '/img/icons/apple-touch-icon-120.png' | relative_url }}" alt=""/>
-          <h1 class="siteHeader__headline">{{ site.title | default: site.github.repository_name }}</h1>
+          <div class="siteHeader__headline">{{ site.title | default: site.github.repository_name }}</div>
           <p>{{ site.description | default: site.github.project_tagline }}</p>
         </a>
         <hr>
         <footer class="siteHeader__footer">
-          <span class="small grey">by <a rel="author" href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></span>
-          <span class="small grey">last site update:  <time datetime="{{ site.time }}">{{ site.time | date: site.date_format }}</time></span>
+          <div class="small grey">by <a rel="author" href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></div>
+          <div class="small grey">last site update:  <time datetime="{{ site.time }}">{{ site.time | date: site.date_format }}</time></div>
         </footer>
       </header>
+
 
       <article class="article">
         {{ content }}

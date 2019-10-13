@@ -31,6 +31,7 @@ a:hover{filter: saturate(0.3) brightness(1.2);outline: 0;}
 h1,h2,h3,h4,h5,h6,header {
   font-family:var(--headlineFontFamily);
   margin: 1.5em 0 0.5em;
+  font-weight: normal;
 }
 
 

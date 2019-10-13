@@ -23,8 +23,6 @@
 
 .siteHeader__footer {
   margin-bottom: 1rem;
-  display: flex;
-  justify-content: space-between;
 }
 
 
@@ -34,5 +32,9 @@
   }
   .siteHeader__logo {
     width: auto;
+  }
+  .siteHeader__footer {
+    display: flex;
+    justify-content: space-between;
   }
 }
