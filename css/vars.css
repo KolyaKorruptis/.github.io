@@ -3,6 +3,7 @@
   --black: black;
   --lightgrey: #696969;
   --darkGrey: #252525;
+  --orange: #ffcc00;
 
   --headlineFontFamily: Quicksand, sans-serif;
   --textFontFamily: Merriweather, serif;
@@ -13,6 +14,7 @@
   --smallText: 0.8rem;
   --siteBgColor: var(--darkGrey);
   --mainTextColor: var(--white);
+  --linkColor: var(--orange);
 }
 
 
