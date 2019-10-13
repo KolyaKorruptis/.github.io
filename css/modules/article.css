@@ -13,7 +13,7 @@
 article p {
   font-family: var(--textFontFamily);
   letter-spacing: var(--textLetterSpacing);
+  line-height: var(--textLetterSpacing);
   margin-bottom: 0.75rem;
-  letter-spacing: .01rem;
-  line-height: 1.75rem;
+
 }

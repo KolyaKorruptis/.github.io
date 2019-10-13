@@ -3,9 +3,12 @@
   --black: black;
   --lightgrey: #696969;
   --darkGrey: #252525;
+
+  --headlineFontFamily: Quicksand, sans-serif;
   --textFontFamily: Merriweather, serif;
   --textLetterSpacing: .01rem;
-  --headlineFontFamily: Quicksand, sans-serif;
+  --textLineHeight: 1.75rem;
+
   --fontSize: 18px;
   --smallText: 0.8rem;
   --siteBgColor: var(--darkGrey);
