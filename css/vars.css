@@ -10,8 +10,8 @@
   --textLetterSpacing: .01rem;
   --textLineHeight: 1.75rem;
 
-  --fontSize: 22px;
-  --smallText: 0.8rem;
+  --fontSize: 20px;
+  --smallText: 0.8em;
   --siteBgColor: var(--darkGrey);
   --mainTextColor: var(--white);
   --linkColor: var(--orange);
