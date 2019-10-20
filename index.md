@@ -1,9 +1,9 @@
 ### Posts
 
-<ul>
+<ul class="postsList">
   {% for post in site.posts %}
-    <li>
-      <a href="{{ post.url }}">{{ post.title }}</a> <span class="small grey">({{ post.date | date: site.day_format }})</span>
+    <li class="postsList__item">
+      <a class="postsList__link" href="{{ post.url }}">{{ post.title }}</a> <div class="postsList__date">({{ post.date | date: site.day_format }})</div>
     </li>
   {% endfor %}
 </ul>

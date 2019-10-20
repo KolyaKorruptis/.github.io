@@ -1,0 +1,10 @@
+.postsList__date {
+  font-size:var(--smallText);
+  color:var(--lightgrey);
+}
+
+@media (min-width: 768px) {
+  .postsList__date {
+    display: inline-block;
+  }
+}
