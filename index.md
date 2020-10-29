@@ -27,8 +27,8 @@ Here's a silly [picture of me](/img/nicolai.jpg).
 
 ### Contact
 <form action="https://formspree.io/f/mqkgbajv" method="POST">
-  <input type="text" name="_replyto" placeholder="Your email">
-  <textarea name="message" placeholder="Your message" style="width:500px;height:200px;"></textarea>
+  <input type="text" name="_replyto" placeholder="Your email"><br>
+  <textarea name="message" placeholder="Your message" style="width:500px;height:200px;"></textarea><br>
   <button type="submit">Send</button>
 </form>
 
