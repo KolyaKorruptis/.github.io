@@ -26,7 +26,11 @@ I like reading <s>Jane Austen</s> stories about British Explorer [Percy Fawcett]
 Here's a silly [picture of me](/img/nicolai.jpg).
 
 ### Contact
-<form action="http://formspree.io/kolya33+swsi@gmail.com"><input type="email" name="_replyto"><textarea name="body"></textarea><input type="submit" value="Send"></form>
+<form action="http://formspree.io/kolya33+swsi@gmail.com">
+  <input type="email" name="_replyto" placeholder = "Your Email address"><br>
+  <textarea name="body" placeholder="Your message..." style="width:500px;height:300px"></textarea><br>
+  <input type="submit" value="Send">
+</form>
 
 ### Links
 
