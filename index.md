@@ -25,6 +25,9 @@ As a hobby I've been running a [gaming community](https://www.systemshock.org) s
 I like reading <s>Jane Austen</s> stories about British Explorer [Percy Fawcett](https://en.wikipedia.org/wiki/Percy_Fawcett) to my wife, helping people, growing palm trees, and a cold beer. As I discovered, I have strongly held opinions about web standards, net neutrality, and the value of voluntary work.
 Here's a silly [picture of me](/img/nicolai.jpg).
 
+### Contact
+<form action="http://formspree.io/kolya33+swsi@gmail.com"><input type="email" name="_replyto"><textarea name="body"></textarea><input type="submit" value="Send"></form>
+
 ### Links
 
 - [schwarzsilber.de (2004-2015)](http://www.schwarzsilber.de/swsi2015/)
