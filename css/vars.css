@@ -15,7 +15,14 @@
   --smallText: 0.8em;
   --siteBgColor: var(--darkGrey);
   --mainTextColor: var(--lightergrey);
-  --linkColor: var(--orange);
+  --linkColor: var(--white);
+}
+
+@media (prefers-color-scheme: light) {
+  :root {
+    --siteBgColor: var(--white);
+    --linkColor: var(--black);
+  }
 }
 
 

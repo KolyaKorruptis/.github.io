@@ -6,9 +6,9 @@
   width: 100%;
 }
 
-/* .article UL LI {
-  line-height: 1.8rem;
-} */
+.article UL LI {
+  margin-bottom: 0.3em;
+}
 
 article p {
   font-family: var(--textFontFamily);
