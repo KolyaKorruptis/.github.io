@@ -12,8 +12,8 @@ table{border-collapse:collapse;border-spacing:0;}
   display: none;
 }
 
-a{color:var(--linkColor);font-weight:400;text-decoration:none;outline: 0;}
-a:hover{filter: saturate(0.3) brightness(1.2);outline: 0;}
+:any-link{color:var(--linkColor);font-weight:400;text-decoration:none;outline: 0;}
+:any-link:hover{filter: saturate(0.3) brightness(1.2);outline: 0;}
 
 ::selection {
   background: var(--white);

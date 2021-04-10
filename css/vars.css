@@ -20,7 +20,7 @@
 
 @media (prefers-color-scheme: light) {
   :root {
-    --siteBgColor: var(--white);
+    --siteBgColor: white;
     --linkColor: var(--black);
   }
 }
