@@ -39,6 +39,8 @@ Here's a silly [picture of me](/img/nicolai.jpg).
 - [https://www.systemshock.org](https://www.systemshock.org)
 - [https://codepen.io/kolya](https://codepen.io/kolya)
 - [https://stackoverflow.com/users/1225787/kolya](https://stackoverflow.com/users/1225787/kolya)
+- [https://bandcamp.com/kolya](https://bandcamp.com/kolya)
+- [https://soundcloud.com/kolya33](https://soundcloud.com/kolya33)
 
 
 <!---
