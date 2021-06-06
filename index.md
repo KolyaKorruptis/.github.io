@@ -1,3 +1,31 @@
+### Bio
+
+Hi, my name is Nicolai Sandow, born in 1977 in Berlin. I've worked as a frontend webdeveloper since 2002, mainly for local news publishers ([Medienhaus Lensing](https://www.lensingmedia.de/) in Dortmund, [DuMont](https://www.dumont.de/) in Cologne). My professional skills include state-of-the-art HTML and CSS, [frameworkless](http://frameworklessmovement.org/) Javascript, excellent bitmap and vector editing, Git, Scrum and a focus on usability and SEO.
+
+As a hobby I've been running a [gaming community](https://www.systemshock.org) since 2005 about the [System Shock](https://en.wikipedia.org/wiki/System_Shock_2) games series.
+I like reading <s>Jane Austen</s> stories about British Explorer [Percy Fawcett](https://en.wikipedia.org/wiki/Percy_Fawcett) to my wife, helping people, growing palm trees, and a cold beer. As I discovered, I have strongly held opinions about web standards, net neutrality, and the value of voluntary work.
+Here's a silly [picture of me](/img/nicolai.jpg).
+
+### Contact
+<form action="https://formspree.io/f/mqkgbajv" method="POST">
+  <input type="text" name="_replyto" placeholder="Your email"><br>
+  <textarea name="message" placeholder="Your message" style="width:500px;height:200px;"></textarea><br>
+  <button type="submit">Send</button>
+</form>
+
+### Links
+
+- [https://codepen.io/kolya](https://codepen.io/kolya)
+- [https://github.com/KolyaKorruptis](https://github.com/KolyaKorruptis)
+- [https://stackoverflow.com/users/1225787/kolya](https://stackoverflow.com/users/1225787/kolya)
+- [https://www.systemshock.org](https://www.systemshock.org)
+- [https://bandcamp.com/kolya](https://bandcamp.com/kolya)
+- [https://soundcloud.com/kolya33](https://soundcloud.com/kolya33)
+
+### Schwarzsilber.de History
+- [schwarzsilber.de (2004-2015)](http://www.schwarzsilber.de/swsi2015/)
+- [schwarzsilber.de (2001-2003)](http://www.schwarzsilber.de/swsi2015/#%5B%5BThe%20first%20layout%20of%20this%20site%5D%5D)
+
 ### Posts
 
 <ul class="postsList">
@@ -16,32 +44,6 @@
 {% endfor %}
 </ul>
 --->
-
-### Bio
-
-Hi, my name is Nicolai Sandow, born in 1977 in Berlin. I've worked as a frontend webdeveloper since 2002, mainly for local news publishers ([Medienhaus Lensing](https://www.lensingmedia.de/) in Dortmund, [DuMont](https://www.dumont.de/) in Cologne). My professional skills include state-of-the-art HTML and CSS, [frameworkless](http://frameworklessmovement.org/) Javascript, excellent bitmap and vector editing, Git, Scrum and a focus on usability and SEO.
-
-As a hobby I've been running a [gaming community](https://www.systemshock.org) since 2005 about the [System Shock](https://en.wikipedia.org/wiki/System_Shock_2) games series.
-I like reading <s>Jane Austen</s> stories about British Explorer [Percy Fawcett](https://en.wikipedia.org/wiki/Percy_Fawcett) to my wife, helping people, growing palm trees, and a cold beer. As I discovered, I have strongly held opinions about web standards, net neutrality, and the value of voluntary work.
-Here's a silly [picture of me](/img/nicolai.jpg).
-
-### Contact
-<form action="https://formspree.io/f/mqkgbajv" method="POST">
-  <input type="text" name="_replyto" placeholder="Your email"><br>
-  <textarea name="message" placeholder="Your message" style="width:500px;height:200px;"></textarea><br>
-  <button type="submit">Send</button>
-</form>
-
-### Links
-
-- [schwarzsilber.de (2004-2015)](http://www.schwarzsilber.de/swsi2015/)
-- [schwarzsilber.de (2001-2003)](http://www.schwarzsilber.de/swsi2015/#%5B%5BThe%20first%20layout%20of%20this%20site%5D%5D)
-- [https://www.systemshock.org](https://www.systemshock.org)
-- [https://codepen.io/kolya](https://codepen.io/kolya)
-- [https://stackoverflow.com/users/1225787/kolya](https://stackoverflow.com/users/1225787/kolya)
-- [https://bandcamp.com/kolya](https://bandcamp.com/kolya)
-- [https://soundcloud.com/kolya33](https://soundcloud.com/kolya33)
-
 
 <!---
 You can use the [editor on GitHub](https://github.com/KolyaKorruptis/.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
