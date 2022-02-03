@@ -14,9 +14,9 @@ Here's a silly [picture of me](/img/nicolai.jpg).
 </form>
 
 ### Hobby Projects
-- [https://kolya.schwarzsilber.de/startpage/](Browser Start Page)
-- [https://tomato-editor.com/](Tomato Editor)
-- [https://www.systemshock.org](Systemshock.org)
+- [Browser Start Page](https://kolya.schwarzsilber.de/startpage)
+- [Tomato Editor](https://tomato-editor.com)
+- [Systemshock.org](https://www.systemshock.org)
 
 ### My Links
 - [https://codepen.io/kolya](https://codepen.io/kolya)
@@ -24,7 +24,6 @@ Here's a silly [picture of me](/img/nicolai.jpg).
 - [https://stackoverflow.com/users/1225787/kolya](https://stackoverflow.com/users/1225787/kolya)
 - [https://bandcamp.com/kolya](https://bandcamp.com/kolya)
 - [https://soundcloud.com/kolya33](https://soundcloud.com/kolya33)
-- [https://www.chess.com/member/kolyakorruptis]
 
 ### Schwarzsilber.de History
 - [schwarzsilber.de (2004-2015)](http://www.schwarzsilber.de/swsi2015/)
