@@ -13,14 +13,18 @@ Here's a silly [picture of me](/img/nicolai.jpg).
   <button type="submit">Send</button>
 </form>
 
-### Links
+### Hobby Projects
+- [https://kolya.schwarzsilber.de/startpage/](Browser Start Page)
+- [https://tomato-editor.com/](Tomato Editor)
+- [https://www.systemshock.org](Systemshock.org)
 
+### My Links
 - [https://codepen.io/kolya](https://codepen.io/kolya)
 - [https://github.com/KolyaKorruptis](https://github.com/KolyaKorruptis)
 - [https://stackoverflow.com/users/1225787/kolya](https://stackoverflow.com/users/1225787/kolya)
-- [https://www.systemshock.org](https://www.systemshock.org)
 - [https://bandcamp.com/kolya](https://bandcamp.com/kolya)
 - [https://soundcloud.com/kolya33](https://soundcloud.com/kolya33)
+- [https://www.chess.com/member/kolyakorruptis]
 
 ### Schwarzsilber.de History
 - [schwarzsilber.de (2004-2015)](http://www.schwarzsilber.de/swsi2015/)
