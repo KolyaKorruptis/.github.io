@@ -1,6 +1,6 @@
 ---
 title:  "My sponsored child in Nepal and backing up CDs"
-tags: [nepal, ]music]
+tags: [nepal, music]
 ---
 
 A postcard arrived today from my godchild in Nepal. It had a flower drawn on it and not much else. The preprint on the front said "To mark the start of our new close relationship". Well, I hope she learns to write. I sent her a little writing book with drawn illustrations and descriptions of my favourite palm trees that I grow and of my talkative cat. Then I wanted to tell her about my job. I ended up explaining that it's like making picture books or newspapers, but on a computer. Some new perspective here.
