@@ -5,6 +5,8 @@ tags: [music, x-files, aliens]
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/qTRXOnbuJVM/0.jpg)](https://www.youtube.com/watch?v=qTRXOnbuJVM)
 
+The X-Files theme in C major ([url=http://qTRXOnbuJVM&]making of[/url])
+
 
 Sigourney Weaver talks ALIEN 5 at Aliens 30th Anniversary Comic Con Panel
 
@@ -27,3 +29,7 @@ I guess most people know that the title of Ray Bradbury's novel "Fahrenheit: 451
 To find out, Ray Bradbury didn't burn a book with a thermometer inside. He instead [called his local fire department](https://youtu.be/sLuDOEuwwso?t=660) as he explains in this interview.<br>
 The 451° value he was given was rather low and peculiarly specific though. The auto-ignition temperature of paper (ie when heated but not exposed to flames) by recent experiments lies around 480 Fahrenheit. It varies a lot due to type of paper (un/coated), thickness, composition, density, shape (open vs closed book).  ([source](http://www.slate.com/articles/health_and_science/explainer/2012/06/ray_bradbury_death_does_paper_really_burn_at_451_degrees_fahrenheit_.html))
 
+
+<iframe src="https://www.imdb.com/video/imdb/vi3507926809/imdb/embed?autoplay=false&width=640" width="640" height="360" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" frameborder="no" scrolling="no"></iframe>
+
+Kevin Smith interviewing Carrie Henn aka 'Newt' from James Cameron's Aliens (1986) at San Diego Comic-Con (2016).
