@@ -6,6 +6,10 @@
   max-width: 100%;
 }
 
+IMG[src*=smilies] {
+  max-height: 1em;
+}
+
 .article UL LI {
   margin-bottom: 0.3em;
 }
