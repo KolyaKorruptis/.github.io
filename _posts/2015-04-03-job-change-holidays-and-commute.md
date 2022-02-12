@@ -12,3 +12,5 @@ Then this week I started my new job at a large publishing house in my former hom
 ![](/img/DSC_0231.jpg)
 ![](/img/DSC_0174.jpg)
 ![](/img/DSC_0262.jpg)
+
+More banana trivia, whoo! A complete banana cluster weighs between 35 to 50 kilograms (80 and 110 pounds). On La Palma there are no machines to harvest them so they are harvested by hand. Bananas on La Palma are slightly smaller and taste sweeter and more aromatic than the ones I can get in German supermarkets. Bananas are not trees but actually huge herbs! They die off after bearing their fruits, but 2 or 3 new sprouts come from the same root ball and repeat the cycle. Additionally they produce seeds. I have two banana plants in my room, that I've grown from seeds.  ![](/img/smilies/down.png)
