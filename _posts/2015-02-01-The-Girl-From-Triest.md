@@ -1,6 +1,6 @@
 ---
 title:  "La ragazza di Trieste"
-tags: [movies, translation]
+tags: [movies, translation, italy]
 ---
 
 I have taken it upon me to correct the subtitles for the 1982 Italian film "La ragazza di Trieste" (The girl from Triest). The only available subtitles online are quite sketchy and my DVD has none at all. My enterprise is not made easier by the fact that I don't actually speak Italian. I merely have some basic understanding, partly through Latin. Apart from the existing subtitles (which I'm about to correct), I have a German dub (which is atrocious in it's own way) and the google translator at hand. I don't see what could possiby go wrong. ![Awesome!](/img/smilies/awesome.png)
