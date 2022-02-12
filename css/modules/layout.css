@@ -1,11 +1,14 @@
 .main {
-  margin: 1rem;
+  padding-left: 1rem;
+  padding-right: 1rem;
 }
 
 @media (min-width: 768px) {
   .main {
     max-width: 940px;
-    margin: 3rem auto;
+    margin-left: auto;
+    margin-right: auto;
+
   }
 
 
