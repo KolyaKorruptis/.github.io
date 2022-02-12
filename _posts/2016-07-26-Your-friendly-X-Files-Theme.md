@@ -5,7 +5,7 @@ tags: [music, x-files, aliens]
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/qTRXOnbuJVM/0.jpg)](https://www.youtube.com/watch?v=qTRXOnbuJVM)
 
-The X-Files theme in C major ([url=http://qTRXOnbuJVM&]making of[/url])
+The X-Files theme in C major ([making of](http://qTRXOnbuJVM&))
 
 
 Sigourney Weaver talks ALIEN 5 at Aliens 30th Anniversary Comic Con Panel
