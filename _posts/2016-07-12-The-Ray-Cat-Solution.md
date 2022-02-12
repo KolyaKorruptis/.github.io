@@ -9,3 +9,5 @@ In 1981, the US Department of Energy and the civil engineering company Bechtel C
 
 
 [![The Ray Cat Solution](https://i.vimeocdn.com/video/576411498-60c6acd5cf360ce466e1db9fee7aeab6350ae10cb3625076a8a7b1059f7eec8d-d_640)](https://vimeo.com/138843064)
+
+As my wife pointed out this doesn't bode too well for those future cats of Cassandra.
