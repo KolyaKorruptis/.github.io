@@ -8,7 +8,6 @@ Lately I quit my old job at a publishing house in Dortmund, waited out the 3 mon
 Then this week I started my new job at a large publishing house in my former home town Cologne (about 90 minutes away). For the next few months I'll be living in two cities, on the weekends and working days. The new job is turning out to be extremely interesting as I'll be working with some new tools I hadn't had the chance to use before (git among them) and a really nice bunch of people. I think I'll kinda miss working in the midst of the city hustle, but most of all I'll miss my wife and cat during the week. Still I'm extremely happy about this change and I'm looking forward to move all of us back to Cologne eventually.
 
 ![](/img/DSC_0386.JPG)
-![](/img/CIMG0386.jpg)
 ![](/img/DSC_0231.jpg)
 ![](/img/DSC_0174.jpg)
 ![](/img/DSC_0262.jpg)
