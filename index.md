@@ -33,12 +33,14 @@ Here's a silly [picture of me](/img/nicolai.jpg).
     </li>
   {% endfor %}
 </ul>
-
+<!---
+### Tags
 <ul>
 {% for tag in site.tags %}
   <li><a href="">{{ tag[0] }}</a></li>
 {% endfor %}
 </ul>
+--->
 
 ### Schwarzsilber.de History
 - [schwarzsilber.de (2004-2015)](http://www.schwarzsilber.de/swsi2015/)
