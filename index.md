@@ -24,6 +24,7 @@ Here's a silly [picture of me](/img/nicolai.jpg).
 - [https://stackoverflow.com/users/1225787/kolya](https://stackoverflow.com/users/1225787/kolya)
 - [https://bandcamp.com/kolya](https://bandcamp.com/kolya)
 - [https://soundcloud.com/kolya33](https://soundcloud.com/kolya33)
+
 ### Posts
 
 <ul class="postsList">
@@ -33,6 +34,7 @@ Here's a silly [picture of me](/img/nicolai.jpg).
     </li>
   {% endfor %}
 </ul>
+
 <!---
 ### Tags
 <ul>
