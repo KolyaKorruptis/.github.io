@@ -15,7 +15,7 @@ Here's a silly [picture of me](/img/nicolai.jpg).
 
 ### Hobby Projects
 - [Browser Start Page](https://kolya.schwarzsilber.de/startpage)
-- [Tomato Editor](https://tomato-editor.com)
+- [Tomato Editor](http://kolya.schwarzsilber.de/tomato-editor/)
 - [Systemshock.org](https://www.systemshock.org)
 
 ### My Links
@@ -24,11 +24,6 @@ Here's a silly [picture of me](/img/nicolai.jpg).
 - [https://stackoverflow.com/users/1225787/kolya](https://stackoverflow.com/users/1225787/kolya)
 - [https://bandcamp.com/kolya](https://bandcamp.com/kolya)
 - [https://soundcloud.com/kolya33](https://soundcloud.com/kolya33)
-
-### Schwarzsilber.de History
-- [schwarzsilber.de (2004-2015)](http://www.schwarzsilber.de/swsi2015/)
-- [schwarzsilber.de (2001-2003)](http://www.schwarzsilber.de/swsi2015/#%5B%5BThe%20first%20layout%20of%20this%20site%5D%5D)
-
 ### Posts
 
 <ul class="postsList">
@@ -38,15 +33,17 @@ Here's a silly [picture of me](/img/nicolai.jpg).
     </li>
   {% endfor %}
 </ul>
-<!---
-### Tags
 
 <ul>
 {% for tag in site.tags %}
   <li><a href="">{{ tag[0] }}</a></li>
 {% endfor %}
 </ul>
---->
+
+### Schwarzsilber.de History
+- [schwarzsilber.de (2004-2015)](http://www.schwarzsilber.de/swsi2015/)
+- [schwarzsilber.de (2001-2003)](http://www.schwarzsilber.de/swsi2015/#%5B%5BThe%20first%20layout%20of%20this%20site%5D%5D)
+
 
 <!---
 You can use the [editor on GitHub](https://github.com/KolyaKorruptis/.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
