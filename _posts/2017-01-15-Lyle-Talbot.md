@@ -8,4 +8,4 @@ From the wikipedia [article](https://en.wikipedia.org/wiki/Lyle_Talbot#Personal_
 
 Sunday morning coffee spilled.
 
-EDIT: Wikipedia pilfered the original wording from the article ["Lucky Lyle Talbot" by Bill Peschel](https://planetpeschel.com/2013/01/lucky-lyle-talbot/) which is about the 2012 biography: “The Entertainer: Movies, Magic, and My Father’s Twentieth Century” written by his daughter, “New Yorker” reporter Margaret Talbot.
+EDIT: Wikipedia pilfered the original wording from the article ["Lucky Lyle Talbot" by Bill Peschel](https://planetpeschel.com/2013/01/lucky-lyle-talbot/) which is about the 2012 biography that his daughter, the "New Yorker" reporter Margaret Talbot, wrote about him.
