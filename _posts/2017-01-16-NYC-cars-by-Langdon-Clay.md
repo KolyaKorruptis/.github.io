@@ -22,4 +22,4 @@ Box car, Gran Torino Sport, in the Twenties or Thirties on the East side, 1975
 
 Putting it all together:
 
-![Sabotage](/img/Sabotage.jpg)
+[![Sabotage](/img/Sabotage.jpg)](/img/Sabotage.jpg)
