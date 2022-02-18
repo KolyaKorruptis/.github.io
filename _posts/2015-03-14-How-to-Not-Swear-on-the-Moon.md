@@ -1,6 +1,7 @@
 ---
 title:  "How to Not swear on the Moon"
 tags: [space]
+date: 2015-03-14T00:15:48+00:00
 ---
 
 From [this article](http://amyshirateitel.com/2012/01/06/vintage-space-fun-fact-how-to-not-swear-on-the-moon/) by spaceflight historian Amy Shira Teitel:

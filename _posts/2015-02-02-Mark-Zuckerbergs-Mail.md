@@ -1,5 +1,7 @@
 ---
 title:  "Mark Zuckerberg's Mail"
+tags: []
+date: 2015-02-02T22:38:50+00:00
 ---
 
 A drowning man will clutch at a straw. And I imagine that it must have been with that desperate sentiment with which Mark Zuckerberg sat down and composed this text-only mail to me today. And he was so saddened by this loss that he even forgot it was text-only.

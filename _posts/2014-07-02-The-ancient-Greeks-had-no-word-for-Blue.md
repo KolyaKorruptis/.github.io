@@ -1,6 +1,7 @@
 ---
 title:  "The ancient Greeks had no word for Blue"
 tags: [philosophy, colour, synesthesia]
+date: 2014-07-02T14:55:28+00:00
 ---
 
 The ancient Greeks had no specific word for [Blue](http://en.wikipedia.org/wiki/Blue#In_the_ancient_world).

@@ -1,6 +1,7 @@
 ---
 title:  "Buonasera Dottore"
 tags: [italy, music]
+date: 2015-02-02T22:58:10+00:00
 ---
 
 Since I'm knee deep in this 60s Italian vibe (I think it's a sort of overcompensated winter depression that I'm going through) here's a video by Claudia Mori who is the wife of that grapes stomping dude above in real life. But in this song she is the other woman who calls her lover (Franco Morgan) at home, while he pretends for his wife that he's talking to a doctor.

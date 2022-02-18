@@ -1,6 +1,7 @@
 ---
 title:  "The first website ever"
 tags: [internet, history]
+date: 2015-03-10T17:22:29+00:00
 ---
 
 [http://info.cern.ch/hypertext/WWW/TheProject.html](http://info.cern.ch/hypertext/WWW/TheProject.html)

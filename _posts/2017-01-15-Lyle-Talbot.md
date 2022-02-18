@@ -1,6 +1,7 @@
 ---
 title:  "Lyle Talbot"
 tags: [movies]
+date: 2017-01-15T10:58:22+00:00
 ---
 
 From the wikipedia [article](https://en.wikipedia.org/wiki/Lyle_Talbot#Personal_life) about Lyle Talbot:

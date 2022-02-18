@@ -1,6 +1,7 @@
 ---
 title:  "Profondo Rosso"
 tags: [italy, movies]
+date: 2015-02-06T23:37:17+00:00
 ---
 
 I just watched the first half of Profondo Rosso and it took a while to get used to the non sequitur dialogue, the theatrical set at the Blue Bar, reminiscent of [Night Hawks](https://www.google.com/search?q=night%20hawks&gws_rd=ssl&tbm=isch) and the unrealistic acting, ie the commissario heartily eating a sandwich at the murder scene, the reporter offering sex out of the blue and so on.

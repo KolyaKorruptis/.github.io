@@ -1,6 +1,7 @@
 ---
 title:  "Back to Back to the Future"
 tags: [comics]
+date: 2014-07-02T12:00:16+00:00
 ---
 
 [http://www.givingbacktothefuture.com/](http://www.givingbacktothefuture.com/)
