@@ -1,5 +1,5 @@
 ---
-title:  ""
+title:  "Wild Wild Country"
 tags: [series, osho]
 date: 2018-03-24T21:06:16+00:00
 ---
