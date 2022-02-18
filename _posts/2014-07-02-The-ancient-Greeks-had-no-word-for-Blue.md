@@ -13,3 +13,7 @@ In fact their whole color perception must have been very different than ours. No
 
 ![Wine Dark Sea](/img/wine-dark-sea.jpg)
 
+Update 31. July 2017, 15:39:14
+Here is an interesting explanation on aeon.co that finds other aspects than just color in those Greek descriptions:
+https://aeon.co/essays/can-we-hope-to-understand-how-the-greeks-saw-their-world
+
