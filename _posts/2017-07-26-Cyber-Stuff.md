@@ -1,6 +1,6 @@
 ---
-title:  "Cyber Stuff"
-tags: [music, malware, vaporwave, serial experiments lain, dna hacking]
+title:  "DNA hacking and other fun things"
+tags: [music, malware, vaporwave, serial experiments lain, dna hacking, star wars]
 date: 2017-07-26T23:22:20+00:00
 ---
 
@@ -18,3 +18,6 @@ https://arstechnica.com/information-technology/2017/08/code-chunk-in-kronos-malw
 
 > In new research they plan to present at the USENIX Security conference on Thursday, a group of researchers from the University of Washington has shown for the first time that it’s possible to encode malicious software into physical strands of DNA, so that when a gene sequencer analyzes it the resulting data becomes a program that corrupts gene-sequencing software and takes control of the underlying computer.
 [https://www.wired.com/story/malware-dna-hack](https://www.wired.com/story/malware-dna-hack)
+
+
+[140 up-close photos](https://imgur.com/a/Zt9Y4) of ship and vehicle models constructed by ILM for the Original Star Wars Trilogy (1977-1983)
