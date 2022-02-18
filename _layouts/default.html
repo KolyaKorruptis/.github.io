@@ -22,7 +22,7 @@
 
       {% if page.date %}
       <time class="pageDate" datetime="{{ page.date | date_to_xmlschema }}">
-        Post published on: {{ page.date | date: site.day_format }}
+        Post published on: {{ page.date | date: site.date_format }}
       </time>
       {% endif %}
 
