@@ -12,8 +12,12 @@ table{border-collapse:collapse;border-spacing:0;}
   display: none;
 }
 
-:any-link{color:var(--linkColor);font-weight:400;text-decoration:none;outline: 0;}
-:any-link:hover{filter: contrast(0.5) brightness(1.5);outline: 0;}
+:any-link{color:var(--linkColor);font-weight:400;outline: 0;}
+:any-link:hover{outline: 0;filter: contrast(0.5) brightness(1.5);}
+
+@media (prefers-color-scheme: dark) {
+  :any-link{text-decoration:none;}
+}
 
 ::selection {
   background: var(--white);

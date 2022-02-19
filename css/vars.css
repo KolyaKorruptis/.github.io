@@ -21,9 +21,8 @@
 @media (prefers-color-scheme: light) {
   :root {
     --siteBgColor: white;
-    --linkColor: var(--black);
     --mainTextColor: var(--grey);
-    --linkColor: var(--lightergrey);
+    --linkColor: var(--mainTextColor);
   }
 }
 
