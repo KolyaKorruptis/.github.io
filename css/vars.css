@@ -22,6 +22,8 @@
   :root {
     --siteBgColor: white;
     --linkColor: var(--black);
+    --mainTextColor: var(--grey);
+    --linkColor: var(--lightergrey);
   }
 }
 
