@@ -15,6 +15,14 @@
         </footer>
       </header>
 
+      # {% page.title %}
+
+      ### Tags
+      <ul>
+      {% for tag in page.tags %}
+        <li><a href="{{ site.url }}{{ site.baseurl }}{{ tag.url }}">{{ tag.name }}</a></li>
+      {% endfor %}
+      </ul>
 
       <article class="article">
         {{ content }}
