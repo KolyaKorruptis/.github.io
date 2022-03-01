@@ -1,6 +1,6 @@
 ---
 title:  "DNA hacking and other fun things"
-tags: [music, malware, vaporwave, serial experiments lain, dna hacking, star wars]
+tags: [music, malware, vaporwave, serial-experiments-lain, dna-hacking, star-wars]
 date: 2017-07-26T23:22:20+00:00
 ---
 

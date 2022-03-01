@@ -1,6 +1,6 @@
 ---
 title:  "Ying & Yang die Katzen"
-tags: [cats, eastern philosophy]
+tags: [cats, eastern-philosophy]
 ---
 
 

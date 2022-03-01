@@ -1,6 +1,6 @@
 ---
 title:  "Rogue Zero"
-tags: [Linklater, star wars, movies]
+tags: [Linklater, star-wars, movies]
 date: 2018-06-15T21:24:16+00:00
 ---
 

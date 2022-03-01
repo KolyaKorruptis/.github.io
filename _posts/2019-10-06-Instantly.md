@@ -1,7 +1,7 @@
 ---
 title:  "I trusted her instantly!"
 categories: [music]
-tags: [Jonathan Richman]
+tags: [Jonathan-Richman]
 ---
 
 # Jonathan Richman - Outside O'Duffys

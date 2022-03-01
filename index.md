@@ -1,3 +1,7 @@
+---
+title:  "Home"
+---
+
 ### Bio
 
 Hi, my name is Nicolai Sandow, born in 1977 in Berlin. I've worked as a frontend webdeveloper since 2002, mainly for local news publishers ([Medienhaus Lensing](https://www.lensingmedia.de/) in Dortmund, [DuMont](https://www.dumont.de/) in Cologne). My professional skills include state-of-the-art HTML and CSS, [frameworkless](http://frameworklessmovement.org/) Javascript, excellent bitmap and vector editing, Git, Scrum and a focus on usability and SEO.
@@ -37,15 +41,6 @@ Here's a silly [picture of me](/img/nicolai.jpg).
     </li>
   {% endfor %}
 </ul>
-
-<!---
-### Tags
-<ul>
-{% for tag in site.tags %}
-  <li><a href="">{{ tag[0] }}</a></li>
-{% endfor %}
-</ul>
---->
 
 ### Schwarzsilber.de History
 - [schwarzsilber.de (2004-2015)](http://www.schwarzsilber.de/swsi2015/)

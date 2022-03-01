@@ -1,7 +1,7 @@
 ---
 title:  "Nutbush City Limits"
 categories: [musicvideo]
-tags: [Tina Turner]
+tags: [Tina-Turner]
 ---
 
 # Nutbush City Limits
