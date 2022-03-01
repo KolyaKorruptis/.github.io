@@ -28,6 +28,8 @@
     <meta property="og:locale" content="{{ site.lang }}" />
     <meta property="og:url" content="{{ page.url | absolute_url | replace:'index.html',''}}" />
     <meta property="og:site_name" content="{{ site.title | default: site.github.repository_name }}" />
-    {% seo %}
+    {% if site.tags != "" %}
+      {% include collecttags.html %}
+    {% endif %}
   </head>
   <body class="body">
