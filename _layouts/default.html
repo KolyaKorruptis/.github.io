@@ -18,9 +18,11 @@
       # {% page.title %}
 
       ### Tags
-      <ul>
+      <ul class="postsList">
       {% for tag in page.tags %}
-        <li><a href="{{ site.url }}{{ site.baseurl }}{{ tag.url }}">{{ tag.name }}</a></li>
+        <li class="postsList__item">
+          <a class="postsList__link" href="{{ site.url }}{{ site.baseurl }}{{ tag.url }}">{{ tag.name }}</a>
+        </li>
       {% endfor %}
       </ul>
 
