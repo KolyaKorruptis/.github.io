@@ -1,14 +1,13 @@
 ---
 layout: default
 ---
-<div class="post">
-<h1>Tag: {{ page.tag }}</h1>
-<ul>
+
+<!-- <h1>Tag: {{ page.tag }}</h1> -->
+<ul class="postsList">
 {% for post in site.tags[page.tag] %}
-  <li><a href="{{ post.url }}">{{ post.title }}</a> ({{ post.date | date_to_string }})<br>
-    {{ post.description }}
+  <li class="postsList__item">
+    <a class="postsList__link" href="{{ post.url }}">{{ post.title }}</a> <div class="postsList__date">({{ post.date | date_to_string }})</div>
   </li>
 {% endfor %}
 </ul>
-</div>
-<hr>
+
