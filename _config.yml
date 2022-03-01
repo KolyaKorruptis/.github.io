@@ -26,3 +26,5 @@ kramdown:
 #PWA
 background_color: #252525
 theme_color: #252525
+plugins:
+  - jekyll-seo-tag
