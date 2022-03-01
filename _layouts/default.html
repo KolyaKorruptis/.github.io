@@ -22,9 +22,9 @@
           <h3>Tags</h3>
           <aside>
             <ul class="postsList">
-            {% for tag in page.tags %}
+            {% for tags in page.tags %}
               <li class="postsList__item">
-                <a class="postsList__link" href="{{ site.url }}{{ site.baseurl }}{{ tag.url }}">{{ tag.name }}</a>
+                <a class="postsList__link" href="{{ site.url }}{{ site.baseurl }}{{ tags.url }}">{{ tags }}</a>
               </li>
             {% endfor %}
             </ul>
