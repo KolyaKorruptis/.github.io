@@ -24,23 +24,6 @@
           </aside>
         {% endif %}
 
-        {% if page.tags %}
-          {% for tag in page.tags %}
-            {% assign t = tag | first %}
-            {% assign posts = tag | last %}
-            {{ t | downcase }}
-            <aside>
-            Tags:
-            {% for post in posts %}
-              {% if post.tags contains t %}
-                <a href="{{ post.url }}">#{{ post.title }}</a>
-              {% endif %}
-            {% endfor %}
-            </aside>
-          {% endfor %}
-        {% endif %}
-
-
         {{ content }}
       </article>
 
