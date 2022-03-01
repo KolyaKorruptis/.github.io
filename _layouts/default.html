@@ -18,16 +18,18 @@
       <article class="article">
         {% if page.title %}<h1>{{ page.title }}</h1>{% endif %}
 
-        ### Tags
-        <aside>
-          <ul class="postsList">
-          {% for tag in page.tags %}
-            <li class="postsList__item">
-              <a class="postsList__link" href="{{ site.url }}{{ site.baseurl }}{{ tag.url }}">{{ tag.name }}</a>
-            </li>
-          {% endfor %}
-          </ul>
-        </aside>
+        {% if page.tags %}
+          <h3>Tags</h3>
+          <aside>
+            <ul class="postsList">
+            {% for tag in page.tags %}
+              <li class="postsList__item">
+                <a class="postsList__link" href="{{ site.url }}{{ site.baseurl }}{{ tag.url }}">{{ tag.name }}</a>
+              </li>
+            {% endfor %}
+            </ul>
+          </aside>
+        {% endif %}
 
         {{ content }}
       </article>
