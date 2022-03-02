@@ -1,7 +1,7 @@
 ---
 title:  "Moon & Stars"
 tags: [music, selfmade]
-date: 2021-02-17T18:00:00+00:00
+date: 2021-02-14T19:21:08+00:00
 ---
 
 I was playing around with a few synthesizer apps on my phone.

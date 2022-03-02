@@ -26,8 +26,6 @@ table{border-collapse:collapse;border-spacing:0;}
   font-size: var(--fontSize);
   font-family: var(--headlineFontFamily);
   color: var(--mainTextColor);
-  background: linear-gradient(#002f61 50%, #665500 50%);
-  background-attachment: fixed;
 }
 
 h1,h2,h3,h4,h5,h6,header {
