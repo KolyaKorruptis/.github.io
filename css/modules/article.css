@@ -7,8 +7,9 @@
 }
 
 IMG[src*=smilies] {
-  max-height: 1em;
+  max-height: 1.3em;
   transition: all 100ms ease-in-out;
+  vertical-align: middle;
 }
 
 IMG[src*=smilies]:hover {
