@@ -1,6 +1,6 @@
 ---
 layout: tagpage
-title: "Tag: linklater"
-tag: linklater
+title: "Tag: tech"
+tag: tech
 robots: noindex
 ---

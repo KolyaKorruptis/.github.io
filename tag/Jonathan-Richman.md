@@ -1,6 +1,6 @@
 ---
 layout: tagpage
-title: "Tag: Jonathan-Richman"
-tag: Jonathan-Richman
+title: "Tag: jonathan-richman"
+tag: jonathan-richman
 robots: noindex
 ---

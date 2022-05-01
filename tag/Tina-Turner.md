@@ -1,6 +1,6 @@
 ---
 layout: tagpage
-title: "Tag: Tina-Turner"
-tag: Tina-Turner
+title: "Tag: tina-turner"
+tag: tina-turner
 robots: noindex
 ---
