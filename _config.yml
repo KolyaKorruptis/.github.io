@@ -8,6 +8,7 @@ excerpt_separator: <!--more-->
 show_downloads: false
 google_analytics: false
 include: [_resources]
+permalink: /_posts/:title:output_ext
 defaults:
   -
     scope:
