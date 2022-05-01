@@ -6,6 +6,7 @@
 @import url('fonts.css') screen;
 @import url('vars.css') screen;
 @import url('general.css') screen;
+@import url('modules/markdown.css') screen;
 @import url('modules/layout.css') screen;
 @import url('modules/siteHeader.css') screen;
 @import url('modules/article.css') screen;
