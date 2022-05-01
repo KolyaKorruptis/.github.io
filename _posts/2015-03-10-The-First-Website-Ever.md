@@ -1,7 +1,10 @@
 ---
-title:  "The first website ever"
-tags: [internet, history]
-date: 2015-03-10T17:22:29+00:00
+title: The first website ever
+updated: 2015-03-10 17:22:29Z
+created: 2015-03-10 17:22:29Z
+tags:
+  - history
+  - internet
 ---
 
 [http://info.cern.ch/hypertext/WWW/TheProject.html](http://info.cern.ch/hypertext/WWW/TheProject.html)

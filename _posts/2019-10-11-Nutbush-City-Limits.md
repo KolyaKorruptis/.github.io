@@ -1,7 +1,9 @@
 ---
-title:  "Nutbush City Limits"
-categories: [musicvideo]
-tags: [Tina-Turner]
+title: Nutbush City Limits
+updated: 2022-05-01 09:39:00Z
+created: 2019-10-11 14:53:00Z
+tags:
+  - tina-turner
 ---
 
 # Nutbush City Limits

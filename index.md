@@ -8,7 +8,7 @@ Hi, my name is Nicolai Sandow, born in 1977 in Berlin. I've been working as a fr
 
 As a hobby I've been running a [gaming community](https://www.systemshock.org) since 2005 about the [System Shock](https://en.wikipedia.org/wiki/System_Shock_2) games series.
 I like reading <s>Jane Austen</s> stories about British Explorer [Percy Fawcett](https://en.wikipedia.org/wiki/Percy_Fawcett) to my wife, helping people, growing palm trees, and a cold beer. As I discovered, I have strongly held opinions about web standards, net neutrality, and the value of voluntary work.
-Here's a silly [picture of me](/img/nicolai.jpg).
+Here's a silly [picture of me](/_resources/nicolai.jpg).
 
 ### Contact
 <form action="https://formspree.io/f/mqkgbajv" method="POST">

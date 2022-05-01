@@ -1,7 +1,9 @@
 ---
-title:  "a theory about the Fermi paradox"
-tags: [space]
-date: 2015-02-11T23:05:45+00:00
+title: a theory about the Fermi paradox
+updated: 2015-02-11 23:05:45Z
+created: 2015-02-11 23:05:45Z
+tags:
+  - space
 ---
 
 > also, [this](http://waitbutwhy.com/2014/05/fermi-paradox.html).

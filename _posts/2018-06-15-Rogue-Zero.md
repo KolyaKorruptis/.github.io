@@ -1,7 +1,11 @@
 ---
-title:  "Rogue Zero"
-tags: [Linklater, star-wars, movies]
-date: 2018-06-15T21:24:16+00:00
+title: Rogue Zero
+updated: 2018-06-15 21:24:16Z
+created: 2018-06-15 21:24:16Z
+tags:
+  - linklater
+  - movies
+  - star-wars
 ---
 
 I watched 20 minutes of "Everybody wants some!!" (2016) by Richard Linklater which is supposed to be this warm hearted nostalgic look at youth in the 1980s. But  I quickly found myself increasingly hoping Kurt Russell would show up and rip with his car through these college kids. Which I didn't feel when I watched Death Proof actually.

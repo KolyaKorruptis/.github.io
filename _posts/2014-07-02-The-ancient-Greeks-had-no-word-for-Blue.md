@@ -1,7 +1,11 @@
 ---
-title:  "The ancient Greeks had no word for Blue"
-tags: [philosophy, colour, synesthesia]
-date: 2014-07-02T14:55:28+00:00
+title: The ancient Greeks had no word for Blue
+updated: 2022-05-01 09:54:14Z
+created: 2014-07-02 14:55:28Z
+tags:
+  - colour
+  - philosophy
+  - synesthesia
 ---
 
 The ancient Greeks had no specific word for [Blue](http://en.wikipedia.org/wiki/Blue#In_the_ancient_world).
@@ -11,7 +15,7 @@ In fact their whole color perception must have been very different than ours. No
 
 [http://clarkesworldmagazine.com/hoffman_01_13/](http://clarkesworldmagazine.com/hoffman_01_13/)
 
-![Wine Dark Sea](/img/wine-dark-sea.jpg)
+![wine-dark-sea.jpg](../_resources/wine-dark-sea.jpg)
 
 Update 31. July 2017, 15:39:14
 Here is an interesting explanation on aeon.co that finds other aspects than just color in those Greek descriptions:

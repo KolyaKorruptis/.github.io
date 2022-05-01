@@ -1,7 +1,10 @@
 ---
-title:  "Kids on a Slope"
-tags: [series, anime]
-date: 2017-03-01T20:20:53+00:00
+title: Kids on a Slope
+updated: 2017-03-01 20:20:53Z
+created: 2017-03-01 20:20:53Z
+tags:
+  - anime
+  - series
 ---
 
 I finished watching the anime series [Kids on the slope](https://en.wikipedia.org/wiki/Kids_on_the_Slope) today. It's directed by Shinichiro Watanabe and the music is by Yoko Kanno, both of whom worked in the same positions on Cowboy Bebop. But only Kanno really delivers here.<br>

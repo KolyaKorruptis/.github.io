@@ -1,7 +1,10 @@
 ---
-title:  "Escapism and the Monomyth"
-tags: [movies, storytelling]
-date: 2016-12-31T12:06:20+00:00
+title: Escapism and the Monomyth
+updated: 2016-12-31 12:06:20Z
+created: 2016-12-31 12:06:20Z
+tags:
+  - movies
+  - storytelling
 ---
 
 > [Future Shock](http://www.vulture.com/2016/12/children-of-men-alfonso-cuaron-c-v-r.html) - Director Alfonso Cuarón revisits Children of Men, his overlooked 2006 masterpiece, which might be the most relevant film of our dark new century.
