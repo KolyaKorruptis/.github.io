@@ -37,3 +37,16 @@ h1,h2,h3,h4,h5,h6,header {
 
 .small { font-size:var(--smallText); }
 .grey { color:var(--lightgrey); }
+
+blockquote {
+	margin: 0 7px 0 5px;
+	padding: 0 16px 0 10px;
+	border-left-width: 5px;
+	border-left-style: solid;
+}
+
+code {
+	font-family: "SF Mono", Monaco, Menlo, Consolas, "Ubuntu Mono", "Liberation Mono", "DejaVu Sans Mono", "Courier New", monospace;
+	font-size: 1em;
+	line-height: 1.357em;
+}
