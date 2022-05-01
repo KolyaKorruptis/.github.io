@@ -2,8 +2,7 @@
 title: The Common people
 updated: 2017-03-21 11:22:43Z
 created: 2017-03-21 11:22:43Z
-tags:
-  - music
+tags: [music]
 ---
 
 William Shatter sings a song by Pulp and it rocks.

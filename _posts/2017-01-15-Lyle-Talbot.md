@@ -2,8 +2,7 @@
 title: Lyle Talbot
 updated: 2017-01-15 10:58:22Z
 created: 2017-01-15 10:58:22Z
-tags:
-  - movies
+tags: [movies]
 ---
 
 From the wikipedia [article](https://en.wikipedia.org/wiki/Lyle_Talbot#Personal_life) about Lyle Talbot:

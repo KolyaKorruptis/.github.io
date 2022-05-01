@@ -2,10 +2,7 @@
 title: The X-Files theme in C major and other Aliens
 updated: 2016-07-26 20:40:16Z
 created: 2016-07-26 20:40:16Z
-tags:
-  - aliens
-  - music
-  - x-files
+tags: [ aliens, music, x-files ]
 ---
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/qTRXOnbuJVM/0.jpg)](https://www.youtube.com/watch?v=qTRXOnbuJVM)

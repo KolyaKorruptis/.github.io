@@ -2,9 +2,7 @@
 title: Moon & Stars
 updated: 2022-05-01 11:35:38Z
 created: 2021-02-14 19:21:08Z
-tags:
-  - music
-  - selfmade
+tags: [msuci, selfmade]
 ---
 
 I was playing around with a few synthesizer apps on my phone.

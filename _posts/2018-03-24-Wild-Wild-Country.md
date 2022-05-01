@@ -2,9 +2,7 @@
 title: Wild Wild Country
 updated: 2018-03-24 21:06:16Z
 created: 2018-03-24 21:06:16Z
-tags:
-  - osho
-  - series
+tags: [ osho, series ]
 ---
 
 

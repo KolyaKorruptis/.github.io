@@ -2,8 +2,7 @@
 title: Viking Bluetooth
 updated: 2022-05-01 11:50:53Z
 created: 2018-04-16 19:40:37Z
-tags:
-  - history
+tags: [history]
 ---
 
 Boys unearth the treasure of the Viking king Harald Bluetooth on the German island of Rügen.

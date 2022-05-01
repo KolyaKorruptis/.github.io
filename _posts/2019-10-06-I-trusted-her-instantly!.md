@@ -2,8 +2,7 @@
 title: I trusted her instantly!
 updated: 2022-05-01 11:52:57Z
 created: 2019-10-06 21:27:00Z
-tags:
-  - jonathan-richman
+tags: [ jonathan-richman ]
 ---
 
 from the album: <a href="https://jonathanrichman.bandcamp.com/album/ishkode-ishkode">Ishkode! Ishkode!</a> [2016]

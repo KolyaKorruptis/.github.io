@@ -2,9 +2,7 @@
 title: Revolver 360 and Cherlene's Outlaw Country
 updated: 2015-03-17 01:39:33Z
 created: 2015-03-17 01:39:33Z
-tags:
-  - comics
-  - games
+tags: [ comics, games ]
 ---
 
 I just wanna say that [Revolver360 Reactor](http://store.steampowered.com/app/313400/) is the best shoot em up game I've seen in some time. Possibly quite a long time.

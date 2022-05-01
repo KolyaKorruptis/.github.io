@@ -2,8 +2,7 @@
 title: Back to Back to the Future
 updated: 2014-07-02 12:00:16Z
 created: 2014-07-02 12:00:16Z
-tags:
-  - comics
+tags: [comics]
 ---
 
 [http://www.givingbacktothefuture.com/](http://www.givingbacktothefuture.com/)

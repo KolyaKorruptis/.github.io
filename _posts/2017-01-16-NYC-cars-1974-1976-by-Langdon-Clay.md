@@ -2,10 +2,7 @@
 title: NYC cars 1974-1976 by Langdon Clay
 updated: 2022-05-01 11:20:34Z
 created: 2017-01-16 14:02:25Z
-tags:
-  - beastie boys
-  - cars
-  - retro
+tags: [ beastie boys, cars, retro ]
 ---
 
 NYC cars 1974-1976 by [Langdon Clay](http://www.langdonclay.com)

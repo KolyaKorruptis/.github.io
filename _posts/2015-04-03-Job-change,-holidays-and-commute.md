@@ -2,8 +2,7 @@
 title: Job change, holidays and commute
 updated: 2022-05-01 11:17:38Z
 created: 2015-04-03 00:22:54Z
-tags:
-  - bananas
+tags: [ bananas ]
 ---
 
 Lately I quit my old job at a publishing house in Dortmund, waited out the 3 months period of notice and then went on a short holiday to [La Palma](https://www.google.de/maps/place/La+Palma,+Santa+Cruz+de+Tenerife,+Spain/@28.6551728,-17.8657039,11z/data=!3m1!4b1!4m2!3m1!1s0xc6bf20c6a87a13b:0x8e2037d22330882d) (one of the Canary islands) last week, where I saw clouds drifting over a volcanic mountain range, hiked through pyroclastic lava fields and primeval forests, got a baseball cap and a nicely tanned fat tummy from eating lots of bananas. (Still no beard.)

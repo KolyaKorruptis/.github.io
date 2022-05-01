@@ -2,8 +2,7 @@
 title: The neighbourhood Socialite
 updated: 2017-03-01 23:15:21Z
 created: 2017-03-01 23:15:21Z
-tags:
-  - awkward
+tags: [awkward]
 ---
 
 I'm registered in some kind of neighborhood social network site. Usually I avoid social networks like the pest but with the people living nearby I can see some value to it. Anyway, some woman posted there that they "lost a right children's shoe (exactly like in the figure)".<br>

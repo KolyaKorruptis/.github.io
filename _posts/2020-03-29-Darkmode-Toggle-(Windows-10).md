@@ -2,8 +2,7 @@
 title: Darkmode Toggle (Windows 10)
 updated: 2022-05-01 11:21:29Z
 created: 2020-03-29 15:42:28Z
-tags:
-  - tech
+tags: [tech, selfmade]
 ---
 
 If you are looking for an automatic switch to dark/light mode at certain times, check out Armin Osaj's little program [Windows 10 Auto Dark Mode](https://github.com/Armin2208/Windows-Auto-Night-Mode).
