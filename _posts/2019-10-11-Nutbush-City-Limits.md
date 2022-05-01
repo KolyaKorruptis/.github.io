@@ -6,8 +6,6 @@ tags:
   - tina-turner
 ---
 
-# Nutbush City Limits
-
 My wife likes to wash our clothes with [Sapindus Saponoria](https://en.wikipedia.org/wiki/Sapindus_saponaria) but hipsters have discovered them too and now they have become prohibitively costly in our town. We call it nutbush city limits.
 
 <iframe width="100%" height="630" src="https://www.youtube.com/embed/oNGnMQS8Xhg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

@@ -7,10 +7,6 @@ tags:
   - eastern-philosophy
 ---
 
-
-# Ying & Yang die Katzen
-
-
 ![Ying+Yang.jpg](../_resources/Ying+Yang.jpg)
 
 <!--more-->
