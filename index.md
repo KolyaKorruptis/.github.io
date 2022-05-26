@@ -10,12 +10,12 @@ As a hobby I've been running a [gaming community](https://www.systemshock.org) s
 I like reading <s>Jane Austen</s> stories about British Explorer [Percy Fawcett](https://en.wikipedia.org/wiki/Percy_Fawcett) to my wife, helping people, growing palm trees, and a cold beer. As I discovered, I have strongly held opinions about web standards, net neutrality, and the value of voluntary work.
 Here's a silly [picture of me](/_resources/nicolai.jpg).
 
-### Contact
+<!-- ### Contact
 <form action="https://formspree.io/f/mqkgbajv" method="POST">
   <input type="text" name="_replyto" placeholder="Your email"><br>
   <textarea name="message" placeholder="Your message" style="width:500px;height:200px;"></textarea><br>
   <button type="submit">Send</button>
-</form>
+</form> -->
 
 ### Hobby Projects
 - [Karl Marks](https://github.com/KolyaKorruptis/KarlMarks) is a Chrome browser extension that brings a custom new-tab-page
@@ -26,9 +26,10 @@ Here's a silly [picture of me](/_resources/nicolai.jpg).
 - [Dirty Dancing Mitschrift](https://github.com/KolyaKorruptis/Dirty-Dancing-Mitschrift) is a feeling, a heartbeat.
 
 ### My Links
-- [https://codepen.io/kolya](https://codepen.io/kolya)
 - [https://github.com/KolyaKorruptis](https://github.com/KolyaKorruptis)
+- [https://codepen.io/kolya](https://codepen.io/kolya)
 - [https://stackoverflow.com/users/1225787/kolya](https://stackoverflow.com/users/1225787/kolya)
+- [https://social.cologne/web/@kolya](https://social.cologne/web/@kolya)
 - [https://bandcamp.com/kolya](https://bandcamp.com/kolya)
 - [https://soundcloud.com/kolya33](https://soundcloud.com/kolya33)
 
