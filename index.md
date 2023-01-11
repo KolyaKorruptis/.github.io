@@ -4,18 +4,10 @@ title:  ""
 
 ### Bio
 
-Hi, my name is Nicolai Sandow, born in 1977 in Berlin. I've been working as a frontend webdeveloper since 2002, mainly for local news publishers ([Medienhaus Lensing](https://www.lensingmedia.de/) in Dortmund, [DuMont](https://www.dumont.de/) in Cologne). My professional skills include state-of-the-art HTML and CSS, [frameworkless](http://frameworklessmovement.org/) Javascript, excellent bitmap and vector editing, Git, Scrum and a focus on usability and SEO.
+Hi, my name is Nicolai Sandow, born in 1977 in Berlin. I have been working as a frontend webdeveloper since 2002, mainly for local news publishers ([Medienhaus Lensing](https://www.lensingmedia.de/) in Dortmund, [DuMont](https://www.dumont.de/) in Cologne). I like working with HTML, CSS and [frameworkless](http://frameworklessmovement.org/) Javascript, logo design, image and vector editing, Git, Scrum and have a focus on UI/UX and SEO.
 
-As a hobby I've been running a [gaming community](https://www.systemshock.org) since 2005 about the [System Shock](https://en.wikipedia.org/wiki/System_Shock_2) games series.
-I like reading <s>Jane Austen</s> stories about British Explorer [Percy Fawcett](https://en.wikipedia.org/wiki/Percy_Fawcett) to my wife, helping people, growing palm trees, and a cold beer. As I discovered, I have strongly held opinions about web standards, net neutrality, and the value of voluntary work.
+As a hobby I've been running a [gaming community](https://www.systemshock.org) since 2005 about the [System Shock](https://en.wikipedia.org/wiki/System_Shock_2) games series. I like reading books by [B.Traven](https://en.wikipedia.org/wiki/B._Traven) for my wife, helping people, growing palm trees and a cold beer. I have strongly held opinions about web standards, net neutrality and the value of voluntary work.
 Here's a silly [picture of me](/_resources/nicolai.jpg).
-
-<!-- ### Contact
-<form action="https://formspree.io/f/mqkgbajv" method="POST">
-  <input type="text" name="_replyto" placeholder="Your email"><br>
-  <textarea name="message" placeholder="Your message" style="width:500px;height:200px;"></textarea><br>
-  <button type="submit">Send</button>
-</form> -->
 
 ### Hobby Projects
 - [Karl Marks](https://github.com/KolyaKorruptis/KarlMarks) is a Chrome browser extension that brings a custom new-tab-page
@@ -25,7 +17,7 @@ Here's a silly [picture of me](/_resources/nicolai.jpg).
 - [Systemshock.org](https://www.systemshock.org) is a fan community dedicated to the System Shock games series
 - [Dirty Dancing Mitschrift](https://github.com/KolyaKorruptis/Dirty-Dancing-Mitschrift) is a feeling, a heartbeat.
 
-### My Links
+### Links
 - [https://github.com/KolyaKorruptis](https://github.com/KolyaKorruptis)
 - [https://codepen.io/kolya](https://codepen.io/kolya)
 - [https://stackoverflow.com/users/1225787/kolya](https://stackoverflow.com/users/1225787/kolya)
@@ -33,20 +25,9 @@ Here's a silly [picture of me](/_resources/nicolai.jpg).
 - [https://bandcamp.com/kolya](https://bandcamp.com/kolya)
 - [https://soundcloud.com/kolya33](https://soundcloud.com/kolya33)
 
-### Posts
-
-<ul class="postsList">
-  {% for post in site.posts %}
-    <li class="postsList__item">
-      <a class="postsList__link" href="{{ post.url }}">{{ post.title }}</a> <div class="postsList__date">({{ post.date | date: site.day_format }})</div>
-    </li>
-  {% endfor %}
-</ul>
-
 ### Schwarzsilber.de History
 - [schwarzsilber.de (2004-2015)](http://www.schwarzsilber.de/swsi2015/)
 - [schwarzsilber.de (2001-2003)](http://www.schwarzsilber.de/swsi2015/#%5B%5BThe%20first%20layout%20of%20this%20site%5D%5D)
-
 
 <!---
 You can use the [editor on GitHub](https://github.com/KolyaKorruptis/.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
