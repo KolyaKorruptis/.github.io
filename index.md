@@ -21,7 +21,6 @@ Here's a silly [picture of me](/_resources/nicolai.jpg).
 - [https://github.com/KolyaKorruptis](https://github.com/KolyaKorruptis)
 - [https://codepen.io/kolya](https://codepen.io/kolya)
 - [https://stackoverflow.com/users/1225787/kolya](https://stackoverflow.com/users/1225787/kolya)
-- [https://social.cologne/web/@kolya](https://social.cologne/web/@kolya)
 - [https://bandcamp.com/kolya](https://bandcamp.com/kolya)
 - [https://soundcloud.com/kolya33](https://soundcloud.com/kolya33)
 
